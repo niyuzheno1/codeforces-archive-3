@@ -1,0 +1,1151 @@
+for more details please visit : https://codeforces.com/contest/1375/problems
+
+
+__
+
+![](//codeforces.org/s/36454/images/codeforces-logo-with-telegram.png)
+
+![In English](//codeforces.org/s/36454/images/flags/24/gb.png) ![По-
+русски](//codeforces.org/s/36454/images/flags/24/ru.png)
+
+  
+
+Codeforces Global Round 9
+
+The problem statement has recently been changed. View the changes.
+
+×
+
+A. Sign Flipping
+
+time limit per test
+
+1 second
+
+memory limit per test
+
+256 megabytes
+
+input
+
+standard input
+
+output
+
+standard output
+
+You are given nn integers a1,a2,…,ana1,a2,…,an, where nn is odd. You are
+allowed to flip the sign of some (possibly all or none) of them. You wish to
+perform these flips in such a way that the following conditions hold:
+
+  1. At least n−12n−12 of the adjacent differences ai+1−aiai+1−ai for i=1,2,…,n−1i=1,2,…,n−1 are greater than or equal to 00. 
+  2. At least n−12n−12 of the adjacent differences ai+1−aiai+1−ai for i=1,2,…,n−1i=1,2,…,n−1 are less than or equal to 00. 
+
+Find any valid way to flip the signs. It can be shown that under the given
+constraints, there always exists at least one choice of signs to flip that
+satisfies the required condition. If there are several solutions, you can find
+any of them.
+
+Input
+
+The input consists of multiple test cases. The first line contains an integer
+tt (1≤t≤5001≤t≤500)  — the number of test cases. The description of the test
+cases follows.
+
+The first line of each test case contains an integer nn (3≤n≤993≤n≤99, nn is
+odd)  — the number of integers given to you.
+
+The second line of each test case contains nn integers a1,a2,…,ana1,a2,…,an
+(−109≤ai≤109−109≤ai≤109)  — the numbers themselves.
+
+It is guaranteed that the sum of nn over all test cases does not exceed
+1000010000.
+
+Output
+
+For each test case, print nn integers b1,b2,…,bnb1,b2,…,bn, corresponding to
+the integers after flipping signs. bibi has to be equal to either aiai or
+−ai−ai, and of the adjacent differences bi+1−bibi+1−bi for i=1,…,n−1i=1,…,n−1,
+at least n−12n−12 should be non-negative and at least n−12n−12 should be non-
+positive.
+
+It can be shown that under the given constraints, there always exists at least
+one choice of signs to flip that satisfies the required condition. If there
+are several solutions, you can find any of them.
+
+Example
+
+Input
+
+Copy
+
+    
+    
+    5
+    3
+    -2 4 3
+    5
+    1 1 1 1 1
+    5
+    -2 4 7 -6 4
+    9
+    9 7 -4 -2 1 -3 9 -4 -5
+    9
+    -4 1 9 4 8 9 5 1 -9
+    
+
+Output
+
+Copy
+
+    
+    
+    -2 -4 3
+    1 1 1 1 1
+    -2 -4 7 -6 4
+    -9 -7 -4 2 1 -3 -9 -4 -5
+    4 -1 -9 -4 -8 -9 -5 -1 9
+    
+
+Note
+
+In the first test case, the difference (−4)−(−2)=−2(−4)−(−2)=−2 is non-
+positive, while the difference 3−(−4)=73−(−4)=7 is non-negative.
+
+In the second test case, we don't have to flip any signs. All 44 differences
+are equal to 00, which is both non-positive and non-negative.
+
+In the third test case, 7−(−4)7−(−4) and 4−(−6)4−(−6) are non-negative, while
+(−4)−(−2)(−4)−(−2) and (−6)−7(−6)−7 are non-positive.
+
+The problem statement has recently been changed. View the changes.
+
+×
+
+B. Neighbor Grid
+
+time limit per test
+
+1 second
+
+memory limit per test
+
+256 megabytes
+
+input
+
+standard input
+
+output
+
+standard output
+
+You are given a grid with nn rows and mm columns, where each cell has a non-
+negative integer written on it. We say the grid is good if for each cell the
+following condition holds: if it has a number k>0k>0 written on it, then
+exactly kk of its neighboring cells have a number greater than 00 written on
+them. Note that if the number in the cell is 00, there is no such restriction
+on neighboring cells.
+
+You are allowed to take any number in the grid and increase it by 11. You may
+apply this operation as many times as you want, to any numbers you want.
+Perform some operations (possibly zero) to make the grid good, or say that it
+is impossible. If there are multiple possible answers, you may find any of
+them.
+
+Two cells are considered to be neighboring if they have a common edge.
+
+Input
+
+The input consists of multiple test cases. The first line contains an integer
+tt (1≤t≤50001≤t≤5000)  — the number of test cases. The description of the test
+cases follows.
+
+The first line of each test case contains two integers nn and mm
+(2≤n,m≤3002≤n,m≤300)  — the number of rows and columns, respectively.
+
+The following nn lines contain mm integers each, the jj-th element in the ii-
+th line ai,jai,j is the number written in the jj-th cell of the ii-th row
+(0≤ai,j≤1090≤ai,j≤109).
+
+It is guaranteed that the sum of n⋅mn⋅m over all test cases does not exceed
+105105.
+
+Output
+
+If it is impossible to obtain a good grid, print a single line containing
+"NO".
+
+Otherwise, print a single line containing "YES", followed by nn lines each
+containing mm integers, which describe the final state of the grid. This final
+grid should be obtainable from the initial one by applying some operations
+(possibly zero).
+
+If there are multiple possible answers, you may print any of them.
+
+Example
+
+Input
+
+Copy
+
+    
+    
+    5
+    3 4
+    0 0 0 0
+    0 1 0 0
+    0 0 0 0
+    2 2
+    3 0
+    0 0
+    2 2
+    0 0
+    0 0
+    2 3
+    0 0 0
+    0 4 0
+    4 4
+    0 0 0 0
+    0 2 0 1
+    0 0 0 0
+    0 0 0 0
+    
+
+Output
+
+Copy
+
+    
+    
+    YES
+    0 0 0 0
+    0 1 1 0
+    0 0 0 0
+    NO
+    YES
+    0 0
+    0 0
+    NO
+    YES
+    0 1 0 0
+    1 4 2 1
+    0 2 0 0
+    1 3 1 0
+    
+
+Note
+
+In the first test case, we can obtain the resulting grid by increasing the
+number in row 22, column 33 once. Both of the cells that contain 11 have
+exactly one neighbor that is greater than zero, so the grid is good. Many
+other solutions exist, such as the grid
+
+0100
+
+0100
+
+0210
+
+0210
+
+0000
+
+0000
+
+All of them are accepted as valid answers.
+
+In the second test case, it is impossible to make the grid good.
+
+In the third test case, notice that no cell has a number greater than zero on
+it, so the grid is automatically good.
+
+The problem statement has recently been changed. View the changes.
+
+×
+
+C. Element Extermination
+
+time limit per test
+
+1 second
+
+memory limit per test
+
+256 megabytes
+
+input
+
+standard input
+
+output
+
+standard output
+
+You are given an array a of length n, which initially is a permutation of
+numbers from 1 to n. In one operation, you can choose an index i (1≤i<n) such
+that ai<ai+1, and remove either ai or ai+1 from the array (after the removal,
+the remaining parts are concatenated).
+
+For example, if you have the array [1,3,2], you can choose i=1 (since
+a1=1<a2=3), then either remove a1 which gives the new array [3,2], or remove
+a2 which gives the new array [1,2].
+
+Is it possible to make the length of this array equal to 1 with these
+operations?
+
+Input
+
+The first line contains a single integer t (1≤t≤2⋅104)  — the number of test
+cases. The description of the test cases follows.
+
+The first line of each test case contains a single integer n (2≤n≤3⋅105)  —
+the length of the array.
+
+The second line of each test case contains n integers a1, a2, ..., an (1≤ai≤n,
+ai are pairwise distinct) — elements of the array.
+
+It is guaranteed that the sum of n over all test cases doesn't exceed 3⋅105.
+
+Output
+
+For each test case, output on a single line the word "YES" if it is possible
+to reduce the array to a single element using the aforementioned operation, or
+"NO" if it is impossible to do so.
+
+Example
+
+Input
+
+Copy
+
+    
+    
+    4
+    3
+    1 2 3
+    4
+    3 1 2 4
+    3
+    2 3 1
+    6
+    2 4 6 1 3 5
+    
+
+Output
+
+Copy
+
+    
+    
+    YES
+    YES
+    NO
+    YES
+    
+
+Note
+
+For the first two test cases and the fourth test case, we can operate as
+follow (the bolded elements are the pair chosen for that operation):
+
+[1,2,3]→[1,2]→[1]
+
+[3,1,2,4]→[3,1,4]→[3,4]→[4]
+
+[2,4,6,1,3,5]→[4,6,1,3,5]→[4,1,3,5]→[4,1,5]→[4,5]→[4]
+
+The problem statement has recently been changed. View the changes.
+
+×
+
+D. Replace by MEX
+
+time limit per test
+
+1 second
+
+memory limit per test
+
+256 megabytes
+
+input
+
+standard input
+
+output
+
+standard output
+
+You're given an array of n integers between 0 and n inclusive.
+
+In one operation, you can choose any element of the array and replace it by
+the MEX of the elements of the array (which may change after the operation).
+
+For example, if the current array is [0,2,2,1,4], you can choose the second
+element and replace it by the MEX of the present elements  — 3. Array will
+become [0,3,2,1,4].
+
+You must make the array non-decreasing, using at most 2n operations.
+
+It can be proven that it is always possible. Please note that you do not have
+to minimize the number of operations. If there are many solutions, you can
+print any of them.
+
+ –
+
+An array b[1…n] is non-decreasing if and only if b1≤b2≤…≤bn.
+
+The MEX (minimum excluded) of an array is the smallest non-negative integer
+that does not belong to the array. For instance:
+
+  * The MEX of [2,2,1] is 0, because 0 does not belong to the array. 
+  * The MEX of [3,1,0,1] is 2, because 0 and 1 belong to the array, but 2 does not. 
+  * The MEX of [0,3,1,2] is 4 because 0, 1, 2 and 3 belong to the array, but 4 does not. 
+
+It's worth mentioning that the MEX of an array of length n is always between 0
+and n inclusive.
+
+Input
+
+The first line contains a single integer t (1≤t≤200) — the number of test
+cases. The description of the test cases follows.
+
+The first line of each test case contains a single integer n (3≤n≤1000) —
+length of the array.
+
+The second line of each test case contains n integers a1,…,an (0≤ai≤n) —
+elements of the array. Note that they don't have to be distinct.
+
+It is guaranteed that the sum of n over all test cases doesn't exceed 1000.
+
+Output
+
+For each test case, you must output two lines:
+
+The first line must contain a single integer k (0≤k≤2n)  — the number of
+operations you perform.
+
+The second line must contain k integers x1,…,xk (1≤xi≤n), where xi is the
+index chosen for the i-th operation.
+
+If there are many solutions, you can find any of them. Please remember that it
+is not required to minimize k.
+
+Example
+
+Input
+
+Copy
+
+    
+    
+    5
+    3
+    2 2 3
+    3
+    2 1 0
+    7
+    0 7 3 1 3 7 7
+    9
+    2 0 1 1 2 4 4 2 0
+    9
+    8 4 7 6 1 2 3 0 5
+    
+
+Output
+
+Copy
+
+    
+    
+    0
+    
+    2
+    3 1
+    4
+    2 5 5 4
+    11
+    3 8 9 7 8 5 9 6 4 1 2
+    10
+    1 8 1 9 5 2 4 6 3 7
+    
+
+Note
+
+In the first test case, the array is already non-decreasing (2≤2≤3).
+
+Explanation of the second test case (the element modified by each operation is
+colored in red):
+
+  * a=[2,1,0] ; the initial MEX is 3. 
+  * a=[2,1,3] ; the new MEX is 0. 
+  * a=[0,1,3] ; the new MEX is 2. 
+  * The final array is non-decreasing: 0≤1≤3. 
+
+Explanation of the third test case:
+
+  * a=[0,7,3,1,3,7,7] ; the initial MEX is 2. 
+  * a=[0,2,3,1,3,7,7] ; the new MEX is 4. 
+  * a=[0,2,3,1,4,7,7] ; the new MEX is 5. 
+  * a=[0,2,3,1,5,7,7] ; the new MEX is 4. 
+  * a=[0,2,3,4,5,7,7] ; the new MEX is 1. 
+  * The final array is non-decreasing: 0≤2≤3≤4≤5≤7≤7. 
+
+The problem statement has recently been changed. View the changes.
+
+×
+
+E. Inversion SwapSort
+
+time limit per test
+
+2 seconds
+
+memory limit per test
+
+256 megabytes
+
+input
+
+standard input
+
+output
+
+standard output
+
+Madeline has an array a of n integers. A pair (u,v) of integers forms an
+inversion in a if:
+
+  * 1≤u<v≤n. 
+  * au>av. 
+
+Madeline recently found a magical paper, which allows her to write two indices
+u and v and swap the values au and av. Being bored, she decided to write a
+list of pairs (ui,vi) with the following conditions:
+
+  * all the pairs in the list are distinct and form an inversion in a. 
+  * all the pairs that form an inversion in a are in the list. 
+  * Starting from the given array, if you swap the values at indices u1 and v1, then the values at indices u2 and v2 and so on, then after all pairs are processed, the array a will be sorted in non-decreasing order. 
+
+Construct such a list or determine that no such list exists. If there are
+multiple possible answers, you may find any of them.
+
+Input
+
+The first line of the input contains a single integer n (1≤n≤1000) — the
+length of the array.
+
+Next line contains n integers a1,a2,...,an (1≤ai≤109)  — elements of the
+array.
+
+Output
+
+Print -1 if no such list exists. Otherwise in the first line you should print
+a single integer m (0≤m≤n(n−1)2) — number of pairs in the list.
+
+The i-th of the following m lines should contain two integers ui,vi
+(1≤ui<vi≤n).
+
+If there are multiple possible answers, you may find any of them.
+
+Examples
+
+Input
+
+Copy
+
+    
+    
+    3
+    3 1 2
+    
+
+Output
+
+Copy
+
+    
+    
+    2
+    1 3
+    1 2
+    
+
+Input
+
+Copy
+
+    
+    
+    4
+    1 8 1 6
+    
+
+Output
+
+Copy
+
+    
+    
+    2
+    2 4
+    2 3
+    
+
+Input
+
+Copy
+
+    
+    
+    5
+    1 1 1 2 2
+    
+
+Output
+
+Copy
+
+    
+    
+    0
+    
+
+Note
+
+In the first sample test case the array will change in this order
+[3,1,2]→[2,1,3]→[1,2,3].
+
+In the second sample test case it will be [1,8,1,6]→[1,6,1,8]→[1,1,6,8].
+
+In the third sample test case the array is already sorted.
+
+The problem statement has recently been changed. View the changes.
+
+×
+
+F. Integer Game
+
+time limit per test
+
+1 second
+
+memory limit per test
+
+256 megabytes
+
+input
+
+standard input
+
+output
+
+standard output
+
+This is an interactive problem.
+
+Anton and Harris are playing a game to decide which of them is the king of
+problemsetting.
+
+There are three piles of stones, initially containing a, b, and c stones,
+where a, b, and c are distinct positive integers. On each turn of the game,
+the following sequence of events takes place:
+
+  * The first player chooses a positive integer y and provides it to the second player. 
+  * The second player adds y stones to one of the piles, with the condition that he cannot choose the same pile in two consecutive turns. 
+
+The second player loses if, at any point, two of the piles contain the same
+number of stones. The first player loses if 1000 turns have passed without the
+second player losing.
+
+Feeling confident in his skills, Anton decided to let Harris choose whether he
+wants to go first or second. Help Harris defeat Anton and become the king of
+problemsetting!
+
+Input
+
+The first line of input contains three distinct positive integers a, b, and c
+(1≤a,b,c≤109)  — the initial number of stones in piles 1, 2, and 3
+respectively.
+
+Interaction
+
+The interaction begins by reading the integers a, b and c.
+
+After reading the integers, print a single line containing either "First" or
+"Second", denoting who you want to play as (as first or second
+correspondently).
+
+On each turn, the first player (either you or the judge) must print a positive
+integer y (1≤y≤1012).
+
+Then, the second player must print 1, 2, or 3, indicating which pile should
+have y stones added to it. From the second turn onwards, the pile that the
+second player chooses must be different from the pile that they chose on the
+previous turn.
+
+If you are playing as Second and complete 1000 turns without losing, or if you
+are playing as First and the judge has determined that it cannot make a move
+without losing, the interactor will print 0 and will finish interaction. This
+means that your program is correct for this test case, and you should exit
+immediately.
+
+If you are playing as First and complete 1000 turns without winning, or if you
+are playing as Second and print a move that makes two piles have the same
+number of stones, or if you output an invalid move as either player, the
+interactor will print −1 and will finish interaction. You will receive a Wrong
+Answer verdict. Make sure to exit immediately to avoid getting other verdicts.
+
+After printing something do not forget to output end of line and flush the
+output. Otherwise, you will get Idleness limit exceeded. To do this, use:
+
+  * fflush(stdout) or cout.flush() in C++; 
+  * System.out.flush() in Java; 
+  * flush(output) in Pascal; 
+  * stdout.flush() in Python; 
+  * see documentation for other languages. 
+
+In this problem, hacks are disabled.
+
+Example
+
+Input
+
+Copy
+
+    
+    
+    5 2 6
+    
+    
+    3
+    
+    0
+
+Output
+
+Copy
+
+    
+    
+    First
+    2
+    
+    3
+    
+
+Note
+
+In the sample input, the piles initially have 5, 2, and 6 stones. Harris
+decides to go first and provides the number 2 to Anton. Anton adds 2 stones to
+the third pile, which results in 5, 2, and 8.
+
+In the next turn, Harris chooses 3. Note that Anton cannot add the stones to
+the third pile since he chose the third pile in the previous turn. Anton
+realizes that he has no valid moves left and reluctantly recognizes Harris as
+the king.
+
+The problem statement has recently been changed. View the changes.
+
+×
+
+G. Tree Modification
+
+time limit per test
+
+1 second
+
+memory limit per test
+
+256 megabytes
+
+input
+
+standard input
+
+output
+
+standard output
+
+You are given a tree with n vertices. You are allowed to modify the structure
+of the tree through the following multi-step operation:
+
+  1. Choose three vertices a, b, and c such that b is adjacent to both a and c. 
+  2. For every vertex d other than b that is adjacent to a, remove the edge connecting d and a and add the edge connecting d and c. 
+  3. Delete the edge connecting a and b and add the edge connecting a and c. 
+
+As an example, consider the following tree:
+
+![](https://espresso.codeforces.com/67ad2197112ff5162542c7d358f309287fdd44d4.png)
+
+The following diagram illustrates the sequence of steps that happen when we
+apply an operation to vertices 2, 4, and 5:
+
+![](https://espresso.codeforces.com/26b87851f85078e8d9fa3f6db19c8a632a1c0e7a.png)
+
+It can be proven that after each operation, the resulting graph is still a
+tree.
+
+Find the minimum number of operations that must be performed to transform the
+tree into a star. A star is a tree with one vertex of degree n−1, called its
+center, and n−1 vertices of degree 1.
+
+Input
+
+The first line contains an integer n (3≤n≤2⋅105)  — the number of vertices in
+the tree.
+
+The i-th of the following n−1 lines contains two integers ui and vi
+(1≤ui,vi≤n, ui≠vi) denoting that there exists an edge connecting vertices ui
+and vi. It is guaranteed that the given edges form a tree.
+
+Output
+
+Print a single integer  — the minimum number of operations needed to transform
+the tree into a star.
+
+It can be proven that under the given constraints, it is always possible to
+transform the tree into a star using at most 1018 operations.
+
+Examples
+
+Input
+
+Copy
+
+    
+    
+    6
+    4 5
+    2 6
+    3 2
+    1 2
+    2 4
+    
+
+Output
+
+Copy
+
+    
+    
+    1
+    
+
+Input
+
+Copy
+
+    
+    
+    4
+    2 4
+    4 1
+    3 4
+    
+
+Output
+
+Copy
+
+    
+    
+    0
+    
+
+Note
+
+The first test case corresponds to the tree shown in the statement. As we have
+seen before, we can transform the tree into a star with center at vertex 5 by
+applying a single operation to vertices 2, 4, and 5.
+
+In the second test case, the given tree is already a star with the center at
+vertex 4, so no operations have to be performed.
+
+The problem statement has recently been changed. View the changes.
+
+×
+
+H. Set Merging
+
+time limit per test
+
+4 seconds
+
+memory limit per test
+
+256 megabytes
+
+input
+
+standard input
+
+output
+
+standard output
+
+You are given a permutation a1,a2,…,an of numbers from 1 to n. Also, you have
+n sets S1,S2,…,Sn, where Si={ai}. Lastly, you have a variable cnt,
+representing the current number of sets. Initially, cnt=n.
+
+We define two kinds of functions on sets:
+
+f(S)=minu∈Su;
+
+g(S)=maxu∈Su.
+
+You can obtain a new set by merging two sets A and B, if they satisfy
+g(A)<f(B) (Notice that the old sets do not disappear).
+
+Formally, you can perform the following sequence of operations:
+
+  * cnt←cnt+1;
+
+  * Scnt=Su∪Sv, you are free to choose u and v for which 1≤u,v<cnt and which satisfy g(Su)<f(Sv).
+
+You are required to obtain some specific sets.
+
+There are q requirements, each of which contains two integers li,ri, which
+means that there must exist a set Ski (ki is the ID of the set, you should
+determine it) which equals {au∣li≤u≤ri}, which is, the set consisting of all
+ai with indices between li and ri.
+
+In the end you must ensure that cnt≤2.2×106. Note that you don't have to
+minimize cnt. It is guaranteed that a solution under given constraints exists.
+
+Input
+
+The first line contains two integers n,q (1≤n≤212,1≤q≤216)  — the length of
+the permutation and the number of needed sets correspondently.
+
+The next line consists of n integers a1,a2,⋯,an (1≤ai≤n, ai are pairwise
+distinct)  — given permutation.
+
+i-th of the next q lines contains two integers li,ri (1≤li≤ri≤n), describing a
+requirement of the i-th set.
+
+Output
+
+It is guaranteed that a solution under given constraints exists.
+
+The first line should contain one integer cntE (n≤cntE≤2.2×106), representing
+the number of sets after all operations.
+
+cntE−n lines must follow, each line should contain two integers u, v
+(1≤u,v≤cnt′, where cnt′ is the value of cnt before this operation), meaning
+that you choose Su, Sv and perform a merging operation. In an operation,
+g(Su)<f(Sv) must be satisfied.
+
+The last line should contain q integers k1,k2,⋯,kq (1≤ki≤cntE), representing
+that set Ski is the ith required set.
+
+Please notice the large amount of output.
+
+Examples
+
+Input
+
+Copy
+
+    
+    
+    3 2
+    1 3 2
+    2 3
+    1 3
+    
+
+Output
+
+Copy
+
+    
+    
+    6
+    3 2
+    1 3
+    5 2
+    4 6 
+
+Input
+
+Copy
+
+    
+    
+    2 4
+    2 1
+    1 2
+    1 2
+    1 2
+    1 1
+    
+
+Output
+
+Copy
+
+    
+    
+    5
+    2 1
+    2 1
+    2 1
+    5 3 3 1
+
+Note
+
+In the first sample:
+
+We have S1={1},S2={3},S3={2} initially.
+
+In the first operation, because g(S3)=2<f(S2)=3, we can merge S3,S2 into
+S4={2,3}.
+
+In the second operation, because g(S1)=1<f(S3)=2, we can merge S1,S3 into
+S5={1,2}.
+
+In the third operation, because g(S5)=2<f(S2)=3, we can merge S5,S2 into
+S6={1,2,3}.
+
+For the first requirement, S4={2,3}={a2,a3}, satisfies it, thus k1=4.
+
+For the second requirement, S6={1,2,3}={a1,a2,a3}, satisfies it, thus k2=6
+
+Notice that unused sets, identical sets, outputting the same set multiple
+times, and using sets that are present initially are all allowed.
+
+The problem statement has recently been changed. View the changes.
+
+×
+
+I. Cubic Lattice
+
+time limit per test
+
+4 seconds
+
+memory limit per test
+
+256 megabytes
+
+input
+
+standard input
+
+output
+
+standard output
+
+A cubic lattice L in 3-dimensional euclidean space is a set of points defined
+in the following way: L={u⋅→r1+v⋅→r2+w⋅→r3}u,v,w∈Z
+
+Where →r1,→r2,→r3∈Z3 are some integer vectors such that:
+
+  * →r1, →r2 and →r3 are pairwise orthogonal: →r1⋅→r2=→r1⋅→r3=→r2⋅→r3=0
+
+Where →a⋅→b is a dot product of vectors →a and →b.
+
+  * →r1, →r2 and →r3 all have the same length: |→r1|=|→r2|=|→r3|=r
+
+You're given a set A={→a1,→a2,…,→an} of integer points, i-th point has
+coordinates ai=(xi;yi;zi). Let gi=gcd(xi,yi,zi). It is guaranteed that
+gcd(g1,g2,…,gn)=1.
+
+You have to find a cubic lattice L such that A⊂L and r is the maximum
+possible.
+
+Input
+
+First line contains single integer n (1≤n≤104) — the number of points in A.
+
+The i-th of the following n lines contains integers xi, yi, zi
+(0<x2i+y2i+z2i≤1016) — coordinates of the i-th point.
+
+It is guaranteed that gcd(g1,g2,…,gn)=1 where gi=gcd(xi,yi,zi).
+
+Output
+
+In first line output a single integer r2, the square of maximum possible r.
+
+In following 3 lines output coordinates of vectors →r1, →r2 and →r3
+respectively.
+
+If there are multiple possible answers, output any.
+
+Examples
+
+Input
+
+Copy
+
+    
+    
+    2
+    1 2 3
+    1 2 1
+    
+
+Output
+
+Copy
+
+    
+    
+    1
+    1 0 0
+    0 1 0
+    0 0 1
+    
+
+Input
+
+Copy
+
+    
+    
+    1
+    1 2 2
+    
+
+Output
+
+Copy
+
+    
+    
+    9
+    2 -2 1
+    1 2 2
+    -2 -1 2
+    
+
+Input
+
+Copy
+
+    
+    
+    1
+    2 5 5
+    
+
+Output
+
+Copy
+
+    
+    
+    9
+    -1 2 2
+    2 -1 2
+    2 2 -1
+    
+
+  
+
+Codeforces (c) Copyright 2010-2021 Mike Mirzayanov
+
+The only programming contests Web 2.0 platform
+

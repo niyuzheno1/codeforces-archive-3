@@ -1,0 +1,69 @@
+Let $C$ denote the set of distinct characters in $s$. 
+
+Suppose there is a sequence of operations that transform every character to $x$ in the end. For an operation where we transoform all occurences of $y$ to $z$ , let's add a directed edge $y\to z$. The resulting structure is a directed tree rooted at $x$. This is because every character except $x$ is transformed exactly once.
+
+For each character $y$, denote the index of its first occurrence by $l_y$ and its last occurrence by $r_y$. For any non-empty subset $S$ of characters, define $range(S) = \left[ \min_{y\in S} l_y , \max_{y\in S} r_y \right]$. That is, the smallest interval capturing all occurrences of characters belonging to $S$. Also define $cnt(S)$ as the number of occurrences of characters in $S$.
+
+Given a directed tree structure, we can decide its validity regardless of the order of operations. For a character $y$, let $S_y$ denotes the set of characters in the subtree of $y$. The condition is that for every character $y$, $$\text{cnt}(S_y) \geq k \times |\text{range}(S_y)|.$$
+
+Now, we can divise a bitmask dp. For any subset $M$, let $dp(M)$ be true if we can organize the characters of $M$ into a valid tree rooted at a character outside of $M$. Then the final answer will be the set of characters $x$ such that $dp(C\backslash\{x\})$ is true.
+
+To create the dp transitions, there are 2 cases. 
+1. Choose a character $y \in M$ to be an ancestor of all of $M$. That is, if the condition $(1)$ holds for the set $M = S_y$ and $dp(M\backslash \{y\})$ is true, then $dp(M)$ is true.
+
+2. The set $M$ should be split into at least two disjoint subtrees. That is, if there is a non-empty, proper subset $S \subset M$ such that $dp(S)$ and $dp(M\backslash S)$ are true, then $dp(M)$ is also true.
+
+These transitions give rise to an $O(n+3^{|C|})$ soltuion, since we iterate over all subsets of $M$ in case $2$. We still need another observation to optimize this further. The key observation is that we may assume for the transitions of cases $2$ that $range(S) \cap range(M\backslash S) = \emptyset$ That is the sets of characters in sibling subtrees occur on disjoint intervals.
+
+To prove that this assumption is justified, we show that a valid tree can be transformed to a valid tree that does satify our assumption.
+
+Suppose there are two siblings $y$ and $z$ whose subtrees have overlapping ranges. Then if we change $z$'s parent to $y$, we only need to check that the condition $(1)$ still holds for $y$.
+
+In fact, 
+
+$$\text{cnt}(A \cup \{y\}\cup B \cup\{z\}) =\text{cnt}(A \cup \{y\}) +\text{cnt}(\cup B \cup\{z\}) \geq k |\text{range}(A\cup\{y\})| + k |\text{range}(B\cup\{z\})| \geq k |\text{range}(A\cup\{y\}\cup B \cup \{z\})|  $$
+
+Of course, after the transformation in the figure, maybe our assumption still does not hold. But observe that if we repeat this process, it will stop in finitely many steps. This is because the sum of the depths of all nodes strictly increases with each transformation, and the depth of a node is bounded by $|C|$.
+
+Now that the claim is proven, it's not hard to improve our solution to $O(n+|C|2^{|C|})$ If we sort the characters in $C$ by the index of their first occurrence, it is sufficient to try only $|C|-1$ splits according to this order for case $2$. That is, if the charcaters in $M$ are ordered $c_1,...,c_m$, then we should take $S =\{c_1,...,c_i\}$ for some $i$.
+
+
+
+First, each edge connects a person with even income and a person with odd income. So if the graph is not bipartite, then a solution does not exist.
+
+Consider a friendship between person $u$ and $v$, where we don't know the direction. Since $|a_u - a_v| =1$, we know that $a_u -a_v \leq 1$ and $a_v -a_u \leq 1$. Consider a directed friendship $u \to v$. Since $a_u + 1 = a_v$, we know that $a_v -a_u \leq 1$ and $a_u -a_v \leq -1$.
+
+For each friendship, let's add two directed edges between them. If it's undirected, we add one from $u\to v$ of weight $1$ and one from $v \to u$ of weight $1$. If it's directed, we add one from $u \to v$ of weight $1$ and one from $v\to u$ of weight $-1$.
+
+The way we added these edges ensures that if $u$ and $v$ are any two vertices and there is a path of distance $d$ from $u$ to $v$, then $a_v-a_u \leq d$. Note that if a negative cycle exists in our graph, then the inequalities give a contradiction. Otherwise, if an answer exists, some vertex $u$ will have minimum $a_u$ and another vertex $v$ will have maximum $a_v$ and $a_v-a_u \leq dist(u\to v).$ Therefore, the answer cannot be greater than the diameter: $\max_{u,v}dist(u\to v)$ If we find a construction with this answer, then this proves optimality.
+
+Let our contruction be as follows. First, choose two vertices $u$ and $v$ such that $dist(u \to v)$ is maximized. Let's assign $a_i = dist(u \to i).$ The property of shortest paths tell us that all desired inequalities hold for $a_i$. Then we know all directed friendships are correct $a_v - a_u =1$. For all undirected friendships, we know $|a_v -a_u| \leq 1$. Since the graph is bipartitie, it cannot hold that $a_u = a_v$, therefore, $|a_v-a_u|=1$ so all requirements hold and the income inequality is maximized. 
+
+For the implementation, we need to check the graph is bipartitie, check if negative cycles exist, and find all-pairs shortest paths. For this, we can simply do Floyd-Warshall in $O(n^3)$ time. 
+
+
+Let's first solve for a given coloring $c$, the value of $f(c).$ Let $B_{odd}, B_{even}$ denote the number of black spots on even positions and odd positions respectively. We notate similar $W_{odd}$ and $W_{even}$
+
+Claim $f(c) = \frac{1}{2}|B_{odd}-B_{even}|$
+
+Proof: Let's show for any coloring where $B_{odd} - B_{even} = 2k$ (the other case $B_{even}-B_{odd} = 2k$ is equivalent) we have $f(c)= k$.
+
+Let's show $f(c) \leq k$ with a construction of $k$ intersections. Given the condition, let's show a construction. Suppose that $B_{odd} \geq 1$ and $B_{even} \geq 1$. Then there are two adjacent positions of the same color. Connect those positions and continue to solve for the remaining spools. Eventually, there will be $B_{odd} = 2k$ and $W_{even} = 2k$ in an alternating pattern $bwbw...bwbw$. It's easy to connect these to form $k$ connections.
+
+Let's show that $f(c) \geq k$ by proving any matching has at least $k$ intersection. First, we may assume there are no same-color intersections. If one existd, we could improve the matching, not increasing the number of different-color intersection.
+
+Now, since $B_{odd}-B_{even} =2k$, there are at least $k$ black spools on odd positions that are connected to other black spools on odd positions. Each such thread splits the other spools into two sections, each with an odd number of spools. Therefore, each of these k  threads intersect another thread.
+
+Now suppose we have $F$ unfilled positions in total. Say $F_{odd}$ are on odd positions and $F_{even}$ are on even positions. Let $x = n/2-W_{odd}-B_{even}.$
+
+Claim Let $i = x(mod 2)$. The number of valid $s$-reachable colorings $c$ with $f(c) = 1/2|x-i|$ is equal to $ F \choose i$
+
+Proof: Suppose we have a subset of $i$ unfilled positions. For the elements of the subset, we color even positions black and odd positions white. For elements outside the subset, we color even position white and odd position black. Say that $a$ is the number of positions in our subset on even positions. Now $B_{even}+a$ spools will be black on even positions, $B_{odd}+F_{odd}-i+a$ will be black on odd positions. 
+
+$$f(c) = \frac{1}{2} |B_{even}+a - (B_{odd}+F_{odd}-i+a)| = \frac{1}{2} |x-i|/$$
+
+It's clear that our mapping is a bijection.
+
+The expected value is that
+
+$$\frac{1}{2^F}\sum_{0 \leq  i < F} |x-i| {F \choose i}$$

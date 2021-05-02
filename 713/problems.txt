@@ -1,0 +1,1062 @@
+for more details please visit : https://codeforces.com/contest/1512/problems
+Loading [MathJax]/jax/output/HTML-CSS/fonts/TeX/fontdata.js
+
+
+
+__
+
+____  
+
+![Codeforces](//codeforces.org/s/21446/images/codeforces-logo-with-
+telegram.png)
+
+![]()
+
+![]()
+
+![]()
+
+There are no new notifications
+
+History (at most 100 notifications)
+
+| ![In English](//codeforces.org/s/21446/images/flags/24/gb.png) ![По-
+русски](//codeforces.org/s/21446/images/flags/24/ru.png)
+
+ChNBSQNF | Logout
+
+  
+
+
+
+
+
+
+
+
+
+  * Home
+  * Top
+  * Contests
+  * Gym
+  * Problemset
+  * Groups
+  * Rating
+  * Edu
+  * API
+  * Calendar
+  * Help
+
+  
+
+  
+
+
+
+
+
+→ Pay attention
+
+Before contest  
+Codeforces Round #713 (Div. 3)  
+00:49:22
+
+
+
+
+
+→ ChNBSQNF
+
+![](https://userpic.codeforces.org/no-avatar.jpg)
+
+ChNBSQNF
+
+  * ![User''s contribution into Codeforces community](//codeforces.org/s/21446/images/icons/star_blue_16.png)Contribution: 0
+
+  * Settings
+  * Blog
+  * Teams
+  * Submissions
+  * Talks
+  * Contests
+
+  
+
+
+
+
+
+→ Top rated
+
+# | User | Rating  
+---|---|---  
+1 | tourist | 3697  
+2 | Benq | 3583  
+3 | Petr | 3522  
+4 | ecnerwala | 3467  
+5 | Radewoosh | 3466  
+6 | maroonrk | 3369  
+7 | Um_nik | 3358  
+8 | jiangly | 3330  
+9 | Miracle03 | 3314  
+10 | scott_wu | 3313  
+  
+Countries | Cities | Organizations |  View all →  
+---|---  
+  
+
+
+
+
+→ Top contributors
+
+# | User | Contrib.  
+---|---|---  
+1 | 1-gon | 213  
+2 | Errichto | 190  
+3 | rng_58 | 187  
+3 | awoo | 187  
+5 | SecondThread | 186  
+6 | Um_nik | 179  
+7 | Ashishgup | 177  
+8 | maroonrk | 173  
+8 | vovuh | 173  
+10 | antontrygubO_o | 172  
+  
+|  View all →  
+---|---  
+  
+
+
+
+
+→ Find user
+
+Handle:
+
+
+
+
+
+→ Recent actions
+
+  * ashk_21 → Top Competitive Programming Youtubers   ![Text created or updated](//codeforces.org/s/21446/images/icons/x-update-12x12.png)
+
+  * code_hackadeep → Need some understandable solution   ![New comment\(s\)](//codeforces.org/s/21446/images/icons/comment-12x12.png)
+
+  * kakashi. → Google Code Jam Round 1A - Problem C - Hacked Exam   ![New comment\(s\)](//codeforces.org/s/21446/images/icons/comment-12x12.png)
+
+  * Google.cpp → Help Needed In this Question   ![Text created or updated](//codeforces.org/s/21446/images/icons/x-update-12x12.png)
+
+  * Stepavly → Codeforces Round #713 (Div. 3)   ![New comment\(s\)](//codeforces.org/s/21446/images/icons/comment-12x12.png)
+
+  * eatmore → Google Code Jam 2021   ![New comment\(s\)](//codeforces.org/s/21446/images/icons/comment-12x12.png)
+
+  * mtnshh → Divide by Zero 2021 and Codeforces Round #714 (Div. 2)   ![New comment\(s\)](//codeforces.org/s/21446/images/icons/comment-12x12.png)
+
+  * vovuh → Codeforces Round #667 (Div. 3) Editorial   ![New comment\(s\)](//codeforces.org/s/21446/images/icons/comment-12x12.png)
+
+  * maroonrk → AtCoder Grand Contest 053 Announcement   ![New comment\(s\)](//codeforces.org/s/21446/images/icons/comment-12x12.png)
+
+  * KAN → Technocup 2021: Final Round and Codeforces Round #709 — tutorial   ![New comment\(s\)](//codeforces.org/s/21446/images/icons/comment-12x12.png)
+
+  * 0000000000000 → Who is the first grandmaster and legendary grandmaster in codeforces?   ![New comment\(s\)](//codeforces.org/s/21446/images/icons/comment-12x12.png)
+
+  * deepanshu_pali → Feature request for Contest Standings   ![New comment\(s\)](//codeforces.org/s/21446/images/icons/comment-12x12.png)
+
+  * vintage_Vlad_Makeev → Codeforces Round #441. Editorial.   ![New comment\(s\)](//codeforces.org/s/21446/images/icons/comment-12x12.png) ![Necropost](//codeforces.org/s/21446/images/icons/hourglass.png)
+
+  * eku → Program to test solutions to interactive problems   ![New comment\(s\)](//codeforces.org/s/21446/images/icons/comment-12x12.png) ![Necropost](//codeforces.org/s/21446/images/icons/hourglass.png)
+
+  * -Morass- → Problem Topics   ![New comment\(s\)](//codeforces.org/s/21446/images/icons/comment-12x12.png) ![Necropost](//codeforces.org/s/21446/images/icons/hourglass.png)
+
+  * TheRedDevil18 → Google Code Jam Round 1A: Append Sort   ![New comment\(s\)](//codeforces.org/s/21446/images/icons/comment-12x12.png)
+
+  * okwedook → Codeforces Round #703 (Div. 2) Editorial   ![New comment\(s\)](//codeforces.org/s/21446/images/icons/comment-12x12.png)
+
+  * hmehta → Topcoder Rookie SRM 4   ![New comment\(s\)](//codeforces.org/s/21446/images/icons/comment-12x12.png)
+
+  * MohamedAboOkail → Practice Training (500 + 100 Problems)   ![Text created or updated](//codeforces.org/s/21446/images/icons/x-update-12x12.png)
+
+  * scott_wu → I'm scott_wu. AMA!   ![New comment\(s\)](//codeforces.org/s/21446/images/icons/comment-12x12.png)
+
+  * d-agrawal → Competitive Programming Helper Extension for VS Code   ![New comment\(s\)](//codeforces.org/s/21446/images/icons/comment-12x12.png) ![Necropost](//codeforces.org/s/21446/images/icons/hourglass.png)
+
+  * spidy7 → Invitation to CodeRed 2021 by IIIT Allahabad   ![New comment\(s\)](//codeforces.org/s/21446/images/icons/comment-12x12.png)
+
+  * Bhj2001 → ICPC India Online Round   ![New comment\(s\)](//codeforces.org/s/21446/images/icons/comment-12x12.png)
+
+  * my_tempo → Am I that bad at implementation?   ![Text created or updated](//codeforces.org/s/21446/images/icons/x-update-12x12.png)
+
+  * T--o_o--T → Looking for help   ![New comment\(s\)](//codeforces.org/s/21446/images/icons/comment-12x12.png)
+
+|  Detailed →  
+---|---  
+  
+Codeforces Round #713 (Div. 3)
+
+By Stepavly, 28 hours ago, translation, ![In
+English](//codeforces.org/s/21446/images/flags/24/gb.png)
+
+Hello, Codeforces!
+
+<almost-copy-pasted-part>
+
+Hello! Codeforces Round #713 (Div. 3) will start at Saturday, April 10, 2021
+at 07:35UTC-7. You will be offered 7 problems with expected difficulties to
+compose an interesting competition for participants with ratings up to 1600.
+However, all of you who wish to take part and have a rating 1600 or higher,
+can register for the round unofficially. The round will be hosted by rules of
+educational rounds (extended ICPC). Thus, during the round, solutions will be
+judged on preliminary tests, and after the round, it will be a 12-hour phase
+of open hacks. I tried to make strong tests — just like you will be upset if
+many solutions fail after the contest is over.
+
+You will be given 7 problems and 2 hours to solve them.
+
+Note that **the penalty** for the wrong submission in this round (and the
+following Div. 3 rounds) is **10 minutes**.
+
+Remember that only the trusted participants of the third division will be
+included in the official standings table. As it is written by link, this is a
+compulsory measure for combating unsporting behavior. To qualify as trusted
+participants of the third division, you must:
+
+  * take part in at least two rated rounds (and solve at least one problem in each of them),
+  * do not have a point of 1900 or higher in the rating.
+
+**Regardless of whether you are a trusted participant of the third division or
+not, if your rating is less than 1600, then the round will be rated for you.**
+
+The problems for this round were invented by MikeMirzayanov, Supermagzzz,
+Stepavly and sodafago.
+
+Thanks to MikeMirzayanov for platforms and coordination of our work. Good
+luck!
+
+</almost-copy-pasted-part>
+
+Read more »
+
+![](//codeforces.org/s/21446/images/icons/paperclip-16x16.png) Announcement of
+Codeforces Round #713 (Div. 3)
+
+
+
+
+
+
+
+
+
+  * ![Vote: I like it](//codeforces.org/s/21446/images/actions/voteup.png)
+  * +158
+  * ![Vote: I do not like it](//codeforces.org/s/21446/images/actions/votedown.png)
+
+  * ![Author](//codeforces.org/s/21446/images/blog/user_16x16.png) Stepavly 
+  * ![Publication date](//codeforces.org/s/21446/images/blog/date_16x16.png) 28 hours ago
+  * ![Comments](//codeforces.org/s/21446/images/blog/comments_16x16.png) 28 
+
+  
+
+Divide by Zero 2021 and Codeforces Round #714 (Div. 2)
+
+By mtnshh, history, 7 hours ago, ![In
+English](//codeforces.org/s/21446/images/flags/24/gb.png)
+
+The Programming Club, IIT Indore is proud to present our flagship event,
+**Divide By Zero**! The contest will take place on Sunday, April 11, 2021 at
+07:35UTC-7. This round will be rated for all participants with a rating lower
+than 2100.
+
+![Divide By Zero
+2021](/predownloaded/bd/91/bd91b097406e37c0d35b474bbf0d95b5a097d840.jpeg)
+
+Thanks to the following people for making the round possible:
+
+  * KAN for coordinating throughout the round.
+  * kalpitk, ajit and 7dan for setting the problems.
+  * dvshah, bhanushali, sundesh, AniketSangwan, krishanu21saini, somyamehta_24 and hk2102 for their contribution to the problemset.
+  * Um_nik, dorijanlendvaj, chctxdy68, Osama_Alkhodairy, Discombobulated and Jellyman102 for testing the problems.
+  * MikeMirzayanov for the amazing Codeforces and Polygon platforms.
+
+There are 6 problems, and 2 hours to solve them. The points distribution will
+be updated later.
+
+ **PRIZES** : Twenty Codeforces T-shirt will be given to:
+
+  * Top 10 Indian Participants
+  * Random 10 from top 100 (rank 11-100) Indian participants
+
+Hope you guys enjoy the contest! See you on the leaderboard!
+
+Read more »
+
+
+
+
+
+
+
+
+
+  * ![Vote: I like it](//codeforces.org/s/21446/images/actions/voteup.png)
+  * +139
+  * ![Vote: I do not like it](//codeforces.org/s/21446/images/actions/votedown.png)
+
+  * ![Author](//codeforces.org/s/21446/images/blog/user_16x16.png) mtnshh 
+  * ![Publication date](//codeforces.org/s/21446/images/blog/date_16x16.png) 7 hours ago
+  * ![Comments](//codeforces.org/s/21446/images/blog/comments_16x16.png) 17 
+
+  
+
+Codeforces: Results of 2020 [Annual Report]
+
+By MikeMirzayanov, 21 hour(s) ago, ![In
+English](//codeforces.org/s/21446/images/flags/24/gb.png)
+
+Hi Codeforces!
+
+Yes, I know it's already April. Time flies so fast lately! Exactly a year ago
+we were just learning all the "delights" of lockdown.
+
+So let's remember this 2020! What was it like? I don't know about you, but we
+had a hell of a lot of work.
+
+I will now show you some graphs and you will be very surprised. Lockdown
+effect? Of course, but we did our best too.
+
+Many thanks to everyone who did not stand aside! In 2020, we celebrated our
+10th anniversary and crowdfunding money helps us grow and move forward. You
+helped us and each other. Thank you. Thank you for your contribution!
+
+We've been working hard all year to make this community a better place. Did it
+work out? It's up to you to judge. Many thanks to everyone who invested time
+and effort:
+
+  * geranazavr555, kuviman, cannor147 helped a lot with development and new features;
+  * Una_Shem provided great organizational assistance;
+  * our problem coordinators are the greatest: KAN, antontrygubO_o, isaf27, 300iq, significant assistance was provided by BledDest, adedalic and Nebuchadnezzar, vovuh for preparing Div3 rounds;
+  * stingray advised and helped set up the network;
+  * our friends from VK for their help in our infrastructure;
+  * and help of problem writers and testers is immortal!
+
+Time to take stock of 2020.
+
+#### Partner Events
+
+We are pleased to hold programming competitions with companies or for
+companies. I'm sure this is a great way to support the community of young
+programmers and hire talented candidates. Here is a list of our main partners
+this year:
+
+  * **Telegram** and personally Pavel Durov is supporting Codeforces activities for many years, every regular round is held with their help, thank you!
+  * **ICPC** — in 2020 we held several joint events (and we liked it!), I hope there will be more
+  * **Mail.Ru** — Technocup and Russian AI Cup
+  * **VK** , VK Cup — now a personal multi-track competition for Russian-speaking programmers
+  * **XTX Markets** , Codeforces Global Rounds — a series of 6 rounds with a separate scoring and souvenirs for the best participants
+  * **Harbour.Space University** — a series of educational rounds, the selection of summer school Tech Scouts
+  * **JetBrains** , Kotlin Heroes Rounds — Kotlin programming language contests
+  * **Huawei** — research competitions (marathons) with elements of machine learning
+  * **Raiffeisenbank** — round for both divisions with cool prizes
+  * **Grakn Labs** — round for both divisions with money prizes
+  * **Microsoft** , Microsoft Q # Coding Contest — unusual quantum computing competition
+
+Read more »
+
+![Tags](//codeforces.org/s/21446/images/blog/tags.png) 2020,  codeforces,
+report
+
+
+
+
+
+
+
+
+
+  * ![Vote: I like it](//codeforces.org/s/21446/images/actions/voteup.png)
+  * +448
+  * ![Vote: I do not like it](//codeforces.org/s/21446/images/actions/votedown.png)
+
+  * ![Author](//codeforces.org/s/21446/images/blog/user_16x16.png) MikeMirzayanov 
+  * ![Publication date](//codeforces.org/s/21446/images/blog/date_16x16.png) 21 hour(s) ago
+  * ![Comments](//codeforces.org/s/21446/images/blog/comments_16x16.png) 20 
+
+  
+
+Northern Eurasia Finals 2020: Offline
+
+By NercNews, 10 days ago, translation, ![In
+English](//codeforces.org/s/21446/images/flags/24/gb.png)
+
+![text](/predownloaded/c0/fe/c0fe3f2c5397274930f617ee822bdaecd5966927.jpg)
+
+Hello everyone!
+
+After all online qualifiers, we are pleased to announce that the **Northern
+Eurasia Finals** and ICPC 2021 semi-final offline stage will take place this
+weekend on **April 3-4**!
+
+ICPCLive broadcast Standings
+
+Mirror Problems Problems solutions
+
+In December 2020, we announced that **50 student teams out of 330** were
+selected for the **Northern Eurasia Finals**. Most of the teams will compete
+in St. Petersburg. Still, some teams will compete at Minsk, Tbilisi, and Riga
+sites due to travel restrictions between countries.
+
+NERCNews is going to monitor the championship and report on the main events!
+We will post links to the results table, contest tasks, contest mirror, and
+analytics published on the official website.
+
+ **UPD** today were qualified for ICPC 2021 World Finals next 12 teams:
+
+  * SPb ITMO: Insert your name (Budin, Korobkov, Naumov)
+  * HSE: Overtrained (Gorokhovskii, Safonov, Rakhmatullin)
+  * Moscow SU: Nonames (Koshelev, Chunaev, Kalendarov)
+  * St. Petersburg SU: LOUD Enough (Bochkov, Makarov, Gaevoi)
+  * Saratov SU: N (Petrov, Piklyaev, Meshcheryakov)
+  * SPb HSE 1: Lemon Tree (Makhnev, Surkov, Alferov)
+  * Belarusian SU: 3 (Klimasheuski, Paliukhovich, Filinovich)
+  * Moscow IPT: LinkCat (Zgursky, Gaponov, Surkov)
+  * Kazan FU: AJ (Ilikayev, Yagafarov, Kapralov)
+  * NNSU: 1 (Khlyustov, Ryabchikova, Emelin)
+  * Tolyatti SU: A (Zakharov, Sabirov, Panin)
+  * IITU: 1 (Baimukanov, Sardarbekov, Kyzyrkanov)
+
+Also, join the traditional ICPCLive team online broadcast from the site in St.
+Petersburg. The schedule for both days can be found here.
+
+We have compiled a list of teams grouped by ratings, which will be especially
+interesting to follow. What are your predictions? Favorites?
+
+Team | Contestant 1 | Contestant 2 | Contestant 3 | Rating  
+---|---|---|---|---  
+HSE: Overtrained | Ramazan Rakhmatullin  
+never_giveup | Maksim Gorokhovskii  
+Maksim1744 | Ivan Safonov  
+isaf27 | 8672  
+SPb SU: 25 | Egor Gorbachev  
+peltorator | Semen Petrov  
+Semenar | Dmitriy Belichenko  
+Dmitriy.Belichenko | 7970  
+SPb SU: Cheba Kings | Saveliy Grigoryev  
+sava-cska | Andrey Efremov  
+receed | Mikhail Ivanov  
+orz | 7967  
+SPb ITMO: Insert your name | Nikolay Budin  
+Nebuchadnezzar | Stanislav Naumov  
+josdas | Roman Korobkov  
+romanasa | 7863  
+SPb SU: LOUD Enough | Ivan Bochkov  
+gnomina007 | Vladislav Makarov  
+Kaban-5 | Nikita Gaevoi  
+nikgaevoy | 7608  
+MIPT: Malaya Bronnaya | Yury Semenov  
+SYury | Maksym Machula  
+mHuman | Artem Komendantian  
+komendart | 7529  
+HSE: Sleeveless shorts | Philipp Gribov  
+grphil | Fedor Kuyanov  
+Kuyan | Semyon Savkin  
+cookiedoth | 7410  
+SPb HSE 1: Lemon Tree | Vasily Alferov  
+platypus179 | Konstantin Makhnev  
+kokokostya | Maksim Surkov  
+maximumSHOT | 7370  
+Belarusian SU 1 | Aliaksandr Kernazhytski  
+gepardo | Dzianis Kim  
+kimden | Ivan Lukyanov  
+greencis | 7377  
+  
+Share your impressions and photos on social networks using hashtag #NERC.
+
+Who will represent the **Northern Eurasian Region** in the **ICPC 2021** Final
+whenever it happens? We will find out this Sunday! Stay tuned!
+
+![](/predownloaded/e9/da/e9da1a2cf0e3c3d94ad5b0bdc75a02779c8081c8.png)
+![](/predownloaded/e2/db/e2db98d7c811cc9735df00075290f1768f499f9b.png)
+![](/predownloaded/2c/57/2c579d00a3a05ed439ff729b4c6ae78599e4570d.png)
+![](/predownloaded/ea/3f/ea3f8417d0ace88acfe69dc2f46c3a93bf88d9ac.png)
+![](/predownloaded/4b/24/4b2484944d0bad2371b2987b9089c1bb2011ba42.png)
+
+Read more »
+
+![Tags](//codeforces.org/s/21446/images/blog/tags.png) icpc,  nerc,  nef,
+icpc2021
+
+
+
+
+
+
+
+
+
+  * ![Vote: I like it](//codeforces.org/s/21446/images/actions/voteup.png)
+  * +360
+  * ![Vote: I do not like it](//codeforces.org/s/21446/images/actions/votedown.png)
+
+  * ![Author](//codeforces.org/s/21446/images/blog/user_16x16.png) NercNews 
+  * ![Publication date](//codeforces.org/s/21446/images/blog/date_16x16.png) 10 days ago
+  * ![Comments](//codeforces.org/s/21446/images/blog/comments_16x16.png) 56 
+
+  
+
+Codeforces Round #712
+
+By 1-gon, history, 9 days ago, ![In
+English](//codeforces.org/s/21446/images/flags/24/gb.png)
+
+omg hi!
+
+I am pleased to invite you to participate in Codeforces Round #712 (Div. 1)
+and Codeforces Round #712 (Div. 2)! You will be given **6 problems** and **2
+hours 15 minutes** to solve them. I'm happy to announce the theme of this
+round is déjà vu!
+
+I would like to thank the following people:
+
+  * antontrygubO_o for accepting all of my problems at gunpoint
+  * Nika_Tamliani, arvindr9, dorijanlendvaj, I_Love_YrNameCouldBeHere, ssense, _cherry_, TheDramaQueen, Jellyman102, SecondThread, Kuroni, nor, 300iq, evilbuggy, prabhAmbrose, and kpw29 for testing the round and being awesome
+  * Qualified and FlakeLCR for being the first users to register for the Div. 2 and Div. 1 divisions, respectively!
+  * MikeMirzayanov for the amazing platforms Codeforces and Polygon!
+  * You, for upvoting!
+
+Make sure you read all problems, and I'm happy to announce the theme of this
+round is déjà vu! Good luck, have fun!
+
+The score distribution will be announced immediately because you deserve it
+❤️:
+
+Div. 1: **750 — 1000 — 1250 — 1750 — 2500 — 4000**
+
+Div. 2: **500 — 1000 — 1750 — 2000 — 2250 — 3000**
+
+ **UPD** : Editorial
+
+Read more »
+
+![](//codeforces.org/s/21446/images/icons/paperclip-16x16.png) Announcement of
+Codeforces Round #712 (Div. 1)
+
+![](//codeforces.org/s/21446/images/icons/paperclip-16x16.png) Announcement of
+Codeforces Round #712 (Div. 2)
+
+
+
+
+
+
+
+
+
+  * ![Vote: I like it](//codeforces.org/s/21446/images/actions/voteup.png)
+  * +2826
+  * ![Vote: I do not like it](//codeforces.org/s/21446/images/actions/votedown.png)
+
+  * ![Author](//codeforces.org/s/21446/images/blog/user_16x16.png) 1-gon 
+  * ![Publication date](//codeforces.org/s/21446/images/blog/date_16x16.png) 9 days ago
+  * ![Comments](//codeforces.org/s/21446/images/blog/comments_16x16.png) 245 
+
+  
+
+April Fools Day Contest 2021
+
+By Nickolas, 3 weeks ago, ![In
+English](//codeforces.org/s/21446/images/flags/24/gb.png)
+
+The contest is over; I hope you enjoyed it! The editorial is available here.
+
+* * *
+
+The 9th April Fools Day Contest will take place on Thursday April 1st. This is
+a joke competition in which solving the problem is often easier than figuring
+out what the actual task is.
+
+In this round you'll be given several weird problems and 2 hours to solve
+them. The contest will use ACM ICPC rules (no hacks, the standings are decided
+by the number of solved problems and penalty time earned on them), and it will
+be unrated. You can submit solutions in any language allowed by Codeforces,
+unless the problem says otherwise. To get an idea of what the contest will
+look like, you can check out the contests of the past years: 2012, 2013, 2014,
+2016, 2017, 2018, 2019, 2020.
+
+Good luck, and have fun!
+
+Read more »
+
+![](//codeforces.org/s/21446/images/icons/paperclip-16x16.png) Announcement of
+April Fools Day Contest 2021
+
+![Tags](//codeforces.org/s/21446/images/blog/tags.png) april 1st,  april fools
+day contest
+
+
+
+
+
+
+
+
+
+  * ![Vote: I like it](//codeforces.org/s/21446/images/actions/voteup.png)
+  * +781
+  * ![Vote: I do not like it](//codeforces.org/s/21446/images/actions/votedown.png)
+
+  * ![Author](//codeforces.org/s/21446/images/blog/user_16x16.png) Nickolas 
+  * ![Publication date](//codeforces.org/s/21446/images/blog/date_16x16.png) 3 weeks ago
+  * ![Comments](//codeforces.org/s/21446/images/blog/comments_16x16.png) 131 
+
+  
+
+CodeCraft-21 and Codeforces Round #711 (Div. 2)
+
+By sigma_g, history, 2 weeks ago, ![In
+English](//codeforces.org/s/21446/images/flags/24/gb.png)
+
+Hello all!
+
+We are proud to invite you to **CodeCraft-21** , which takes place on Monday,
+March 29, 2021 at 07:35UTC-7. It is rated for all Div2 participants (rating
+under 2100).
+
+This contest comes under **Threads'21** , as a part of our annual techno-
+cultural fest Felicity, IIIT Hyderabad. We have **special prizes for Indian
+participants**!
+
+![](/predownloaded/8e/0a/8e0a76faf6acc96ba6ffb9b873136259066b5211.png)
+
+You will be given **six problems** to solve in a duration of **two hours**.
+
+We have tried our best to keep clean statements, useful samples with good
+explanations, and strong pretests! We have written step-wise editorials, and
+will also release video editorials!
+
+We would like to thank these amazing people for helping make the contest
+happen:
+
+  * BledDest for great coordination of our round
+  * ninja_28, dixitgarg, ltc.groverkss and myself for amazing problemsetting
+  * madlad, AnimeshSinha1309, shash42, nikhil_c for contributing several important problem ideas
+  * TheOneYouWant, amnesiac_dusk, awoo, SleepyShashwat, gaurav172, adedalic, amul_agrawal, vasu0403, d_shi, Horcrux1729, RajMaheshwari, menavlikar.rutvij, Arpanet, spashal, Tinkidinki for testing our problemset, and providing very valuable feedback to improve problem statements, sample cases, and pretests
+  * gaurav172 and shaanknight for giving valuable advice on contest creation
+  * ahish9009 and harshita_gupta for excellent poster and tshirt design
+  * And finally MikeMirzayanov for the amazing platforms, Codeforces and Polygon.
+
+There will be an **interactive problem**! You are recommended to read the
+corresponding guide.
+
+We hope you enjoy the contest as much as we did preparing it! Good luck!
+
+ **Update:** The scoring distribution is 500/1000/1750/2500/2500/3000.
+
+ **Update:** **Editorial** is up! **Video editorials** available on **our
+YouTube channel**.
+
+We are sorry for the sudden increase in difficulty from C to D. Nonetheless we
+hope you enjoyed the problems! :)
+
+* * *
+
+**PRIZES** : The following twenty lucky participants receive a **tshirt** :
+
+  * top 10 Indian participants
+  * random 10 from top 100 (ranks 11-100) Indian participants
+
+These ranks are determined from the combined unofficial ranklist. We are
+coordinating with the CF team for the tshirt design, and we'll update the blog
+post when it is finalized. We also have **INR 7K** worth prizes exclusively
+for IIIT-Hyderabad students!
+
+Read more »
+
+![](//codeforces.org/s/21446/images/icons/paperclip-16x16.png) Announcement of
+CodeCraft-21 and Codeforces Round #711 (Div. 2)
+
+
+
+
+
+
+
+
+
+  * ![Vote: I like it](//codeforces.org/s/21446/images/actions/voteup.png)
+  * +535
+  * ![Vote: I do not like it](//codeforces.org/s/21446/images/actions/votedown.png)
+
+  * ![Author](//codeforces.org/s/21446/images/blog/user_16x16.png) sigma_g 
+  * ![Publication date](//codeforces.org/s/21446/images/blog/date_16x16.png) 2 weeks ago
+  * ![Comments](//codeforces.org/s/21446/images/blog/comments_16x16.png) 193 
+
+  
+
+Codeforces Round #710 (Div. 3)
+
+By Supermagzzz, 2 weeks ago, translation, ![In
+English](//codeforces.org/s/21446/images/flags/24/gb.png)
+
+Hello, Codeforces!
+
+<almost-copy-pasted-part>
+
+Hello! Codeforces Round #710 (Div. 3) will start at Thursday, March 25, 2021
+at 07:35UTC-7. You will be offered 7 problems with expected difficulties to
+compose an interesting competition for participants with ratings up to 1600.
+However, all of you who wish to take part and have a rating 1600 or higher,
+can register for the round unofficially. The round will be hosted by rules of
+educational rounds (extended ICPC). Thus, during the round, solutions will be
+judged on preliminary tests, and after the round it will be a 12-hour phase of
+open hacks. I tried to make strong tests — just like you will be upset if many
+solutions fail after the contest is over.
+
+You will be given 7 problems and 2 hours to solve them.
+
+Note that **the penalty** for the wrong submission in this round (and the
+following Div. 3 rounds) is **10 minutes**.
+
+Remember that only the trusted participants of the third division will be
+included in the official standings table. As it is written by link, this is a
+compulsory measure for combating unsporting behavior. To qualify as trusted
+participants of the third division, you must:
+
+  * take part in at least two rated rounds (and solve at least one problem in each of them),
+  * do not have a point of 1900 or higher in the rating.
+
+**Regardless of whether you are a trusted participant of the third division or
+not, if your rating is less than 1600, then the round will be rated for you.**
+
+The problems for this round were invented by MikeMirzayanov, Supermagzzz,
+Stepavly and sodafago.
+
+Thanks to darkkcyan, bugdone, harlequen, iankury, bfs.07, songsinger,
+infinitepro, sodafago, Gassa, Rox, sharepoLOVEDDD for testing this round.
+
+Thanks to MikeMirzayanov for platforms and coordination of our work. Good
+luck!
+
+</almost-copy-pasted-part>
+
+UDP: Editorial is ready
+
+Read more »
+
+![](//codeforces.org/s/21446/images/icons/paperclip-16x16.png) Announcement of
+Codeforces Round #710 (Div. 3)
+
+
+
+
+
+
+
+
+
+  * ![Vote: I like it](//codeforces.org/s/21446/images/actions/voteup.png)
+  * +335
+  * ![Vote: I do not like it](//codeforces.org/s/21446/images/actions/votedown.png)
+
+  * ![Author](//codeforces.org/s/21446/images/blog/user_16x16.png) Supermagzzz 
+  * ![Publication date](//codeforces.org/s/21446/images/blog/date_16x16.png) 2 weeks ago
+  * ![Comments](//codeforces.org/s/21446/images/blog/comments_16x16.png) 199 
+
+  
+
+Kotlin Heroes: Episode 6 Results
+
+By JetBrains, history, 3 weeks ago, translation, ![In
+English](//codeforces.org/s/21446/images/flags/24/gb.png)
+
+![](/predownloaded/82/40/82402fe8f53b090c87c1f9b0fa4ba5807294ed9f.png)
+
+Hello Codeforces!
+
+The sixth round of the Kotlin Heroes series recently finished! All the rounds
+are available to be used for practice here: Episode 1, Episode 2, Episode 3,
+Episode 4, Episode 5: ICPC Round and Episode 6). Thanks to everyone who
+participated – you inspire us to work even harder on the problems for the next
+round, and we think you’re really going to like them!
+
+Congratulations to the top three contestants:
+
+  1. tourist
+  2. Egor
+  3. Tlatoani
+
+A Kotlin Heroes t-shirt and exclusive Kotlin stickers will be presented to:
+
+  1. tourist
+  2. Egor
+  3. Tlatoani
+  4. eatmore
+  5. uwi
+  6. Benq
+  7. Geothermal
+  8. TadijaSebez
+  9. Maripium
+  10. Maksim1744
+  11. pashka
+  12. Heltion
+  13. dalt
+  14. galen_colin
+  15. tabr
+  16. SYury
+  17. natsugiri
+  18. Golovanov399
+  19. Spheniscine
+  20. Discombobulated
+  21. Ra16bit
+  22. Aidos
+  23. yudedako
+  24. nuip
+  25. knightL
+  26. golikovnik
+  27. wifiiii
+  28. Fortin
+  29. majk
+  30. WiwiHo
+  31. Bench0310
+  32. wu_qing
+  33. Kuyan
+  34. Nikitosh
+  35. cjtoribio
+  36. receed
+  37. vadimmm
+  38. SecondThread
+  39. LeoPro
+  40. rapira
+  41. Lily
+  42. nhho
+  43. PavelKunyavskiy
+  44. abc864197532
+  45. tatyam
+  46. Heart_Blue
+  47. Ji_Kuai
+  48. darnley
+  49. Potassium
+  50. 353cerega
+
+These participants also won branded t-shirts:
+
+  1. polingram
+  2. Prateek
+  3. rotavirus
+  4. linjek
+  5. pr3pony
+  6. ostroumov
+  7. harshrajani460
+  8. xiaowuc1
+  9. arvindf232
+  10. illyakr
+  11. Jetman
+  12. Leksiq
+  13. IceKnight1093
+  14. procrastinate7
+  15. man.yasakov
+  16. Viktor36
+  17. matvey.kazakov
+  18. cmplx-xyttmt
+  19. SourabhYelluru
+  20. daisy_2000
+  21. stanm
+  22. cristian1997
+  23. SerVB
+  24. aaronsms
+  25. chick_magnet
+  26. Ditmarscehen
+  27. My_password_is_qwerty123
+  28. Misha_Help
+  29. Sohsoh84
+  30. igla
+  31. ans_human
+  32. mystic777
+  33. __RANI
+  34. staffle
+  35. MissNick
+  36. arpit_malhotra
+  37. penad
+  38. I_love_Anya_Prokopyeva
+  39. son8bon
+  40. RandYan
+  41. adimiclaus15
+  42. babkabass
+  43. KKT_89
+  44. nishuz
+  45. BMking
+  46. KEKWait
+  47. Kerpoo
+  48. pineapple_pasta
+  49. GlobalElite
+  50. aka2910
+
+We will contact the winners soon to coordinate the delivery of your prizes!
+
+Special thanks goes to SecondThread for streaming the solutions of the entire
+practice round. Check out this wonderful tutorial:
+https://codeforces.com/stream/203
+
+If you are still new to Kotlin but want to give it your all in the next round,
+take a look at Basic Kotlin (solve Koans), Kotlin Playground, this tutorial,
+and these videos on competitive programming in Kotlin.
+
+We wish you all the best and hope you enjoy coding with Kotlin!
+
+Read more »
+
+![Tags](//codeforces.org/s/21446/images/blog/tags.png) #kotlin
+
+
+
+
+
+
+
+
+
+  * ![Vote: I like it](//codeforces.org/s/21446/images/actions/voteup.png)
+  * +154
+  * ![Vote: I do not like it](//codeforces.org/s/21446/images/actions/votedown.png)
+
+  * ![Author](//codeforces.org/s/21446/images/blog/user_16x16.png) JetBrains 
+  * ![Publication date](//codeforces.org/s/21446/images/blog/date_16x16.png) 3 weeks ago
+  * ![Comments](//codeforces.org/s/21446/images/blog/comments_16x16.png) 13 
+
+  
+
+Technocup 2021: Final Round and Codeforces Round #709
+
+By KAN, 3 weeks ago, translation, ![In
+English](//codeforces.org/s/21446/images/flags/24/gb.png)
+
+Hi everyone!
+
+![](https://assets.codeforces.com/images/technocup-narrow-logo.png)
+
+The Final Round of Technocup 2021 starts this Sunday, March 21, 2021 at 13:00
+MSK (10:00 UTC)!
+
+For those who want to compete on the same problems, we will hold two regular
+Codeforces Rounds in the evening: one for the first division, and another one
+for the second. The rounds are starting at Sunday, March 21, 2021 at
+06:20UTC-7.
+
+ **If you are a participant of the official Technocup Finals, you are not
+allowed to take part in the rounds in the evening. We ask participants of the
+official Finals not to discuss the problems in open media till evening.**
+
+The problems are prepared by: Alexander Golovanov399 Golovanov, Evgenii
+amethyst0 Belykh, Andrey AndreySergunin Sergunin, Alexey Aleks5d Upirvitskiy,
+Diego Diegogrc Garcia and me.
+
+Also huge thanks to Bench0310, kokokostya, Um_nik, dorijanlendvaj, brunomont,
+Stepavly, antontrygubO_o, scnucjh, Nebuchadnezzar, wucstdio, golikovnik,
+kuviman, dantrag, BledDest, Supermagzzz, Maripium, geranazavr555, divanik,
+psevdoinsaf, Roms for testing and invaluable comments, and also to
+antontrygubO_o for the help in holding the mirror rounds.
+
+Good luck!
+
+Congratulations to winners of Codeforces Rounds!
+
+Div. 1:
+
+  1. ecnerwala
+  2. Radewoosh
+  3. Benq
+  4. mango_lassi
+  5. AliShahali1382
+
+Div. 2:
+
+  1. qwqc
+  2. gezlik
+  3. yanyutao
+  4. fengqiyuka
+  5. ykl
+
+Thanks for participation! Editorial.
+
+Read more »
+
+![](//codeforces.org/s/21446/images/icons/paperclip-16x16.png) Announcement of
+Codeforces Round #709 (Div. 1, based on Technocup 2021 Final Round)
+
+![](//codeforces.org/s/21446/images/icons/paperclip-16x16.png) Announcement of
+Codeforces Round #709 (Div. 2, based on Technocup 2021 Final Round)
+
+![Tags](//codeforces.org/s/21446/images/blog/tags.png) technocup,  technocup
+2021
+
+
+
+
+
+
+
+
+
+  * ![Vote: I like it](//codeforces.org/s/21446/images/actions/voteup.png)
+  * +368
+  * ![Vote: I do not like it](//codeforces.org/s/21446/images/actions/votedown.png)
+
+  * ![Author](//codeforces.org/s/21446/images/blog/user_16x16.png) KAN 
+  * ![Publication date](//codeforces.org/s/21446/images/blog/date_16x16.png) 3 weeks ago
+  * ![Comments](//codeforces.org/s/21446/images/blog/comments_16x16.png) 431 
+
+  
+
+←
+
+  * 1
+  * 2
+  * 3
+  * ... 
+  * 183
+  * 184
+  * →
+
+  
+
+Codeforces (c) Copyright 2010-2021 Mike Mirzayanov
+
+The only programming contests Web 2.0 platform
+
+Server time: Apr/10/2021 06:45:39UTC-7 (j2).
+
+Desktop version, switch to mobile version.
+
+Privacy Policy
+
+Supported by
+
+![Telegram](//codeforces.org/s/21446/images/telegram-100x100.png)
+![ИТМО](//codeforces.org/s/21446/images/itmo_small_en-logo.png)
+
+
+
+
+
+
+
+
+
+User lists
+
+![](//codeforces.org/s/21446/images/icons/control.png)
+![](//codeforces.org/s/21446/images/icons/control-270.png)
+
+
+
+
+
+Name  
+---  
+No items  
+  
+×
+
+Contest has not started
+

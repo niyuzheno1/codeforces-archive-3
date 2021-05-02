@@ -1,0 +1,704 @@
+for more details please visit : https://codeforces.com/contest/1166/problems
+
+
+__
+
+![](//codeforces.org/s/36454/images/codeforces-logo-with-telegram.png)
+
+![In English](//codeforces.org/s/36454/images/flags/24/gb.png) ![По-
+русски](//codeforces.org/s/36454/images/flags/24/ru.png)
+
+  
+
+Codeforces Round #561 (Div. 2)
+
+The problem statement has recently been changed. View the changes.
+
+×
+
+A. Silent Classroom
+
+time limit per test
+
+1 second
+
+memory limit per test
+
+256 megabytes
+
+input
+
+standard input
+
+output
+
+standard output
+
+There are nn students in the first grade of Nlogonia high school. The
+principal wishes to split the students into two classrooms (each student must
+be in exactly one of the classrooms). Two distinct students whose name starts
+with the same letter will be chatty if they are put in the same classroom
+(because they must have a lot in common). Let xx be the number of such pairs
+of students in a split. Pairs (a,b)(a,b) and (b,a)(b,a) are the same and
+counted only once.
+
+For example, if there are 66 students: "olivia", "jacob", "tanya", "jack",
+"oliver" and "jessica", then:
+
+  * splitting into two classrooms ("jack", "jacob", "jessica", "tanya") and ("olivia", "oliver") will give x=4x=4 (33 chatting pairs in the first classroom, 11 chatting pair in the second classroom), 
+  * splitting into two classrooms ("jack", "tanya", "olivia") and ("jessica", "oliver", "jacob") will give x=1x=1 (00 chatting pairs in the first classroom, 11 chatting pair in the second classroom). 
+
+You are given the list of the nn names. What is the minimum xx we can obtain
+by splitting the students into classrooms?
+
+Note that it is valid to place all of the students in one of the classrooms,
+leaving the other one empty.
+
+Input
+
+The first line contains a single integer nn (1≤n≤1001≤n≤100) — the number of
+students.
+
+After this nn lines follow.
+
+The ii-th line contains the name of the ii-th student.
+
+It is guaranteed each name is a string of lowercase English letters of length
+at most 2020. Note that multiple students may share the same name.
+
+Output
+
+The output must consist of a single integer xx — the minimum possible number
+of chatty pairs.
+
+Examples
+
+Input
+
+Copy
+
+    
+    
+    4
+    jorge
+    jose
+    oscar
+    jerry
+    
+
+Output
+
+Copy
+
+    
+    
+    1
+    
+
+Input
+
+Copy
+
+    
+    
+    7
+    kambei
+    gorobei
+    shichiroji
+    kyuzo
+    heihachi
+    katsushiro
+    kikuchiyo
+    
+
+Output
+
+Copy
+
+    
+    
+    2
+    
+
+Input
+
+Copy
+
+    
+    
+    5
+    mike
+    mike
+    mike
+    mike
+    mike
+    
+
+Output
+
+Copy
+
+    
+    
+    4
+    
+
+Note
+
+In the first sample the minimum number of pairs is 11. This can be achieved,
+for example, by putting everyone except jose in one classroom, and jose in the
+other, so jorge and jerry form the only chatty pair.
+
+In the second sample the minimum number of pairs is 22. This can be achieved,
+for example, by putting kambei, gorobei, shichiroji and kyuzo in one room and
+putting heihachi, katsushiro and kikuchiyo in the other room. In this case the
+two pairs are kambei and kyuzo, and katsushiro and kikuchiyo.
+
+In the third sample the minimum number of pairs is 44. This can be achieved by
+placing three of the students named mike in one classroom and the other two
+students in another classroom. Thus there will be three chatty pairs in one
+classroom and one chatty pair in the other classroom.
+
+The problem statement has recently been changed. View the changes.
+
+×
+
+B. All the Vowels Please
+
+time limit per test
+
+1 second
+
+memory limit per test
+
+256 megabytes
+
+input
+
+standard input
+
+output
+
+standard output
+
+Tom loves vowels, and he likes long words with many vowels. His favorite words
+are vowelly words. We say a word of length kk is vowelly if there are positive
+integers nn and mm such that n⋅m=kn⋅m=k and when the word is written by using
+nn rows and mm columns (the first row is filled first, then the second and so
+on, with each row filled from left to right), every vowel of the English
+alphabet appears at least once in every row and every column.
+
+You are given an integer kk and you must either print a vowelly word of length
+kk or print −1−1 if no such word exists.
+
+In this problem the vowels of the English alphabet are 'a', 'e', 'i', 'o'
+,'u'.
+
+Input
+
+Input consists of a single line containing the integer kk (1≤k≤1041≤k≤104) —
+the required length.
+
+Output
+
+The output must consist of a single line, consisting of a vowelly word of
+length kk consisting of lowercase English letters if it exists or −1−1 if it
+does not.
+
+If there are multiple possible words, you may output any of them.
+
+Examples
+
+Input
+
+Copy
+
+    
+    
+    7
+    
+
+Output
+
+Copy
+
+    
+    
+    -1
+    
+
+Input
+
+Copy
+
+    
+    
+    36
+    
+
+Output
+
+Copy
+
+    
+    
+    agoeuioaeiruuimaeoieauoweouoiaouimae
+
+Note
+
+In the second example, the word "agoeuioaeiruuimaeoieauoweouoiaouimae" can be
+arranged into the following 6×66×6 grid:
+
+![](https://espresso.codeforces.com/3f3856f98005a9ba1f84d231be214f8dbb574936.png)
+
+It is easy to verify that every row and every column contain all the vowels.
+
+The problem statement has recently been changed. View the changes.
+
+×
+
+C. A Tale of Two Lands
+
+time limit per test
+
+1 second
+
+memory limit per test
+
+256 megabytes
+
+input
+
+standard input
+
+output
+
+standard output
+
+The legend of the foundation of Vectorland talks of two integers xx and yy.
+Centuries ago, the array king placed two markers at points |x||x| and |y||y|
+on the number line and conquered all the land in between (including the
+endpoints), which he declared to be Arrayland. Many years later, the vector
+king placed markers at points |x−y||x−y| and |x+y||x+y| and conquered all the
+land in between (including the endpoints), which he declared to be Vectorland.
+He did so in such a way that the land of Arrayland was completely inside
+(including the endpoints) the land of Vectorland.
+
+Here |z||z| denotes the absolute value of zz.
+
+Now, Jose is stuck on a question of his history exam: "What are the values of
+xx and yy?" Jose doesn't know the answer, but he believes he has narrowed the
+possible answers down to nn integers a1,a2,…,ana1,a2,…,an. Now, he wants to
+know the number of unordered pairs formed by two different elements from these
+nn integers such that the legend could be true if xx and yy were equal to
+these two values. Note that it is possible that Jose is wrong, and that no
+pairs could possibly make the legend true.
+
+Input
+
+The first line contains a single integer nn (2≤n≤2⋅1052≤n≤2⋅105)  — the number
+of choices.
+
+The second line contains nn pairwise distinct integers a1,a2,…,ana1,a2,…,an
+(−109≤ai≤109−109≤ai≤109) — the choices Jose is considering.
+
+Output
+
+Print a single integer number — the number of unordered pairs {x,y}{x,y}
+formed by different numbers from Jose's choices that could make the legend
+true.
+
+Examples
+
+Input
+
+Copy
+
+    
+    
+    3
+    2 5 -3
+    
+
+Output
+
+Copy
+
+    
+    
+    2
+    
+
+Input
+
+Copy
+
+    
+    
+    2
+    3 6
+    
+
+Output
+
+Copy
+
+    
+    
+    1
+    
+
+Note
+
+Consider the first sample. For the pair {2,5}{2,5}, the situation looks as
+follows, with the Arrayland markers at |2|=2|2|=2 and |5|=5|5|=5, while the
+Vectorland markers are located at |2−5|=3|2−5|=3 and |2+5|=7|2+5|=7:
+
+![](https://espresso.codeforces.com/b58a4d7c2cc32107ecfbaf7181ed783f21d751c2.png)
+
+The legend is not true in this case, because the interval [2,3][2,3] is not
+conquered by Vectorland. For the pair {5,−3}{5,−3} the situation looks as
+follows, with Arrayland consisting of the interval [3,5][3,5] and Vectorland
+consisting of the interval [2,8][2,8]:
+
+![](https://espresso.codeforces.com/f7988e7601241c67710cb88d6141914b40505f8e.png)
+
+As Vectorland completely contains Arrayland, the legend is true. It can also
+be shown that the legend is true for the pair {2,−3}{2,−3}, for a total of two
+pairs.
+
+In the second sample, the only pair is {3,6}{3,6}, and the situation looks as
+follows:
+
+![](https://espresso.codeforces.com/953449cc2ca4c7080df35397935226dd9842ff33.png)
+
+Note that even though Arrayland and Vectorland share 33 as endpoint, we still
+consider Arrayland to be completely inside of Vectorland.
+
+The problem statement has recently been changed. View the changes.
+
+×
+
+D. Cute Sequences
+
+time limit per test
+
+1 second
+
+memory limit per test
+
+256 megabytes
+
+input
+
+standard input
+
+output
+
+standard output
+
+Given a positive integer mm, we say that a sequence x1,x2,…,xnx1,x2,…,xn of
+positive integers is mm-cute if for every index ii such that 2≤i≤n2≤i≤n it
+holds that xi=xi−1+xi−2+⋯+x1+rixi=xi−1+xi−2+⋯+x1+ri for some positive integer
+riri satisfying 1≤ri≤m1≤ri≤m.
+
+You will be given qq queries consisting of three positive integers aa, bb and
+mm. For each query you must determine whether or not there exists an mm-cute
+sequence whose first term is aa and whose last term is bb. If such a sequence
+exists, you must additionally find an example of it.
+
+Input
+
+The first line contains an integer number qq (1≤q≤1031≤q≤103) — the number of
+queries.
+
+Each of the following qq lines contains three integers aa, bb, and mm
+(1≤a,b,m≤10141≤a,b,m≤1014, a≤ba≤b), describing a single query.
+
+Output
+
+For each query, if no mm-cute sequence whose first term is aa and whose last
+term is bb exists, print −1−1.
+
+Otherwise print an integer kk (1≤k≤501≤k≤50), followed by kk integers
+x1,x2,…,xkx1,x2,…,xk (1≤xi≤10141≤xi≤1014). These integers must satisfy
+x1=ax1=a, xk=bxk=b, and that the sequence x1,x2,…,xkx1,x2,…,xk is mm-cute.
+
+It can be shown that under the problem constraints, for each query either no
+mm-cute sequence exists, or there exists one with at most 5050 terms.
+
+If there are multiple possible sequences, you may print any of them.
+
+Example
+
+Input
+
+Copy
+
+    
+    
+    2
+    5 26 2
+    3 9 1
+    
+
+Output
+
+Copy
+
+    
+    
+    4 5 6 13 26
+    -1
+    
+
+Note
+
+Consider the sample. In the first query, the sequence 5,6,13,265,6,13,26 is
+valid since 6=5+16=5+1, 13=6+5+213=6+5+2 and 26=13+6+5+226=13+6+5+2 have the
+bold values all between 11 and 22, so the sequence is 22-cute. Other valid
+sequences, such as 5,7,13,265,7,13,26 are also accepted.
+
+In the second query, the only possible 11-cute sequence starting at 33 is
+3,4,8,16,…3,4,8,16,…, which does not contain 99.
+
+The problem statement has recently been changed. View the changes.
+
+×
+
+E. The LCMs Must be Large
+
+time limit per test
+
+1 second
+
+memory limit per test
+
+256 megabytes
+
+input
+
+standard input
+
+output
+
+standard output
+
+Dora the explorer has decided to use her money after several years of juicy
+royalties to go shopping. What better place to shop than Nlogonia?
+
+There are nn stores numbered from 11 to nn in Nlogonia. The ii-th of these
+stores offers a positive integer aiai.
+
+Each day among the last mm days Dora bought a single integer from some of the
+stores. The same day, Swiper the fox bought a single integer from all the
+stores that Dora did not buy an integer from on that day.
+
+Dora considers Swiper to be her rival, and she considers that she beat Swiper
+on day ii if and only if the least common multiple of the numbers she bought
+on day ii is strictly greater than the least common multiple of the numbers
+that Swiper bought on day ii.
+
+The least common multiple (LCM) of a collection of integers is the smallest
+positive integer that is divisible by all the integers in the collection.
+
+However, Dora forgot the values of aiai. Help Dora find out if there are
+positive integer values of aiai such that she beat Swiper on every day. You
+don't need to find what are the possible values of aiai though.
+
+Note that it is possible for some values of aiai to coincide in a solution.
+
+Input
+
+The first line contains integers mm and nn (1≤m≤501≤m≤50, 1≤n≤1041≤n≤104) —
+the number of days and the number of stores.
+
+After this mm lines follow, the ii-th line starts with an integer sisi
+(1≤si≤n−11≤si≤n−1), the number of integers Dora bought on day ii, followed by
+sisi distinct integers, the indices of the stores where Dora bought an integer
+on the ii-th day. The indices are between 11 and nn.
+
+Output
+
+Output must consist of a single line containing "possible" if there exist
+positive integers aiai such that for each day the least common multiple of the
+integers bought by Dora is strictly greater than the least common multiple of
+the integers bought by Swiper on that day. Otherwise, print "impossible".
+
+Note that you don't have to restore the integers themselves.
+
+Examples
+
+Input
+
+Copy
+
+    
+    
+    2 5
+    3 1 2 3
+    3 3 4 5
+    
+
+Output
+
+Copy
+
+    
+    
+    possible
+    
+
+Input
+
+Copy
+
+    
+    
+    10 10
+    1 1
+    1 2
+    1 3
+    1 4
+    1 5
+    1 6
+    1 7
+    1 8
+    1 9
+    1 10
+    
+
+Output
+
+Copy
+
+    
+    
+    impossible
+    
+
+Note
+
+In the first sample, a possible choice for the values of the aiai is
+3,4,3,5,23,4,3,5,2. On the first day, Dora buys the integers 3,43,4 and 33,
+whose LCM is 1212, while Swiper buys integers 55 and 22, whose LCM is 1010. On
+the second day, Dora buys 3,53,5 and 22, whose LCM is 3030, and Swiper buys
+integers 33 and 44, whose LCM is 1212.
+
+The problem statement has recently been changed. View the changes.
+
+×
+
+F. Vicky's Delivery Service
+
+time limit per test
+
+4 seconds
+
+memory limit per test
+
+256 megabytes
+
+input
+
+standard input
+
+output
+
+standard output
+
+In a magical land there are nn cities conveniently numbered 1,2,…,n1,2,…,n.
+Some pairs of these cities are connected by magical colored roads. Magic is
+unstable, so at any time, new roads may appear between two cities.
+
+Vicky the witch has been tasked with performing deliveries between some pairs
+of cities. However, Vicky is a beginner, so she can only complete a delivery
+if she can move from her starting city to her destination city through a
+double rainbow. A double rainbow is a sequence of cities c1,c2,…,ckc1,c2,…,ck
+satisfying the following properties:
+
+  * For each ii with 1≤i≤k−11≤i≤k−1, the cities cici and ci+1ci+1 are connected by a road. 
+  * For each ii with 1≤i≤k−121≤i≤k−12, the roads connecting c2ic2i with c2i−1c2i−1 and c2i+1c2i+1 have the same color. 
+
+For example if k=5k=5, the road between c1c1 and c2c2 must be the same color
+as the road between c2c2 and c3c3, and the road between c3c3 and c4c4 must be
+the same color as the road between c4c4 and c5c5.
+
+Vicky has a list of events in chronological order, where each event is either
+a delivery she must perform, or appearance of a new road. Help her determine
+which of her deliveries she will be able to complete.
+
+Input
+
+The first line contains four integers nn, mm, cc, and qq (2≤n≤1052≤n≤105,
+1≤m,c,q≤1051≤m,c,q≤105), denoting respectively the number of cities, the
+number of roads initially present, the number of different colors the roads
+can take, and the number of events.
+
+Each of the following mm lines contains three integers xx, yy, and zz
+(1≤x,y≤n1≤x,y≤n, 1≤z≤c1≤z≤c), describing that there initially exists a
+bidirectional road with color zz between cities xx and yy.
+
+Then qq lines follow, describing the events. Each event is one of the
+following two types:
+
+  1. \+ x y z (1≤x,y≤n1≤x,y≤n, 1≤z≤c1≤z≤c), meaning a road with color zz appears between cities xx and yy; 
+  2. ? x y (1≤x,y≤n1≤x,y≤n), meaning you should determine whether Vicky can make a delivery starting at city xx and ending at city yy. It is guaranteed that x≠yx≠y. 
+
+It is guaranteed that at any moment, there is at most one road connecting any
+pair of cities, and that no road connects a city to itself. It is guaranteed
+that the input contains at least one event of the second type.
+
+Output
+
+For each event of the second type, print a single line containing "Yes"
+(without quotes) if the delivery can be made, or a single line containing "No"
+(without quotes) otherwise.
+
+Example
+
+Input
+
+Copy
+
+    
+    
+    4 3 2 4
+    1 2 1
+    2 3 1
+    3 4 2
+    ? 1 4
+    ? 4 1
+    + 3 1 2
+    ? 4 1
+    
+
+Output
+
+Copy
+
+    
+    
+    Yes
+    No
+    Yes
+    
+
+Note
+
+The following picture corresponds to the sample.
+
+![](https://espresso.codeforces.com/0b7802f83c1f81f78793f89b14fe71d69f0c83ee.png)
+
+For her first delivery, Vicky can use the sequence 1, 2, 3, 4 which is a
+double rainbow. However, she cannot complete the second delivery, as she can
+only reach city 33. After adding the road between cities 11 and 33, she can
+now complete a delivery from city 44 to city 11 by using the double rainbow 4,
+3, 1.
+
+  
+
+Codeforces (c) Copyright 2010-2021 Mike Mirzayanov
+
+The only programming contests Web 2.0 platform
+

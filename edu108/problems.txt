@@ -1,0 +1,964 @@
+for more details please visit : https://codeforces.com/contest/1519/problems
+
+
+__
+
+____  
+
+![Codeforces](//codeforces.org/s/51114/images/codeforces-logo-with-
+telegram.png)
+
+![]()
+
+![]()
+
+![]()
+
+There are no new notifications
+
+History (at most 100 notifications)
+
+| ![In English](//codeforces.org/s/51114/images/flags/24/gb.png) ![По-
+русски](//codeforces.org/s/51114/images/flags/24/ru.png)
+
+ChNBSQNF | Logout
+
+  
+
+
+
+
+
+
+
+
+
+  * Home
+  * Top
+  * Contests
+  * Gym
+  * Problemset
+  * Groups
+  * Rating
+  * Edu
+  * API
+  * Calendar
+  * Help
+
+  
+
+  
+
+
+
+
+
+→ Pay attention
+
+Before contest  
+Educational Codeforces Round 108 (Rated for Div. 2)  
+00:36:07
+
+
+
+
+
+→ ChNBSQNF
+
+![](https://userpic.codeforces.org/no-avatar.jpg)
+
+ChNBSQNF
+
+  * ![User''s contest rating in Codeforces community](//codeforces.org/s/51114/images/icons/rating-16x16.png)Rating: 1564
+  * ![User''s contribution into Codeforces community](//codeforces.org/s/51114/images/icons/star_blue_16.png)Contribution: +1
+
+  * Settings
+  * Blog
+  * Teams
+  * Submissions
+  * Talks
+  * Contests
+
+  
+
+
+
+
+
+→ Top rated
+
+# | User | Rating  
+---|---|---  
+1 | Benq | 3675  
+2 | tourist | 3617  
+3 | ecnerwala | 3551  
+4 | Radewoosh | 3528  
+5 | Petr | 3452  
+6 | Um_nik | 3435  
+7 | maroonrk | 3385  
+8 | jiangly | 3332  
+9 | Miracle03 | 3314  
+10 | scott_wu | 3313  
+  
+Countries | Cities | Organizations |  View all →  
+---|---  
+  
+
+
+
+
+→ Top contributors
+
+# | User | Contrib.  
+---|---|---  
+1 | 1-gon | 212  
+2 | Errichto | 188  
+3 | awoo | 187  
+4 | rng_58 | 186  
+5 | SecondThread | 182  
+6 | Ashishgup | 176  
+6 | Um_nik | 176  
+8 | maroonrk | 172  
+9 | antontrygubO_o | 171  
+10 | -is-this-fft- | 169  
+  
+|  View all →  
+---|---  
+  
+
+
+
+
+→ Find user
+
+Handle:
+
+
+
+
+
+→ Recent actions
+
+  * procoder_123 → Who is "Benq" and how he became LGM so fast   ![New comment\(s\)](//codeforces.org/s/51114/images/icons/comment-12x12.png)
+
+  * k4droid3 → Getting AC on GNU C++17(64) but TLE on testcase 1 GNU C++17 for same code?   ![New comment\(s\)](//codeforces.org/s/51114/images/icons/comment-12x12.png)
+
+  * AJAYHAYAGREEVE → Increasing contests on weekends   ![New comment\(s\)](//codeforces.org/s/51114/images/icons/comment-12x12.png)
+
+  * awoo → Educational Codeforces Round 108 [Rated for Div. 2]   ![New comment\(s\)](//codeforces.org/s/51114/images/icons/comment-12x12.png)
+
+  * dutinmeow → Top 5 Optimizations, Tips, and Tricks LGMs Don't Want YOU To Know About !    ![New comment\(s\)](//codeforces.org/s/51114/images/icons/comment-12x12.png)
+
+  * pun69 → Is Codeforces more math heavy than most cp?   ![Text created or updated](//codeforces.org/s/51114/images/icons/x-update-12x12.png)
+
+  * prabhAmbrose → Small Help needed in debuging a code   ![New comment\(s\)](//codeforces.org/s/51114/images/icons/comment-12x12.png)
+
+  * xyz2606 → Contest 2050 and Codeforces Round #718 (Div.1 + Div.2) Editorial   ![New comment\(s\)](//codeforces.org/s/51114/images/icons/comment-12x12.png)
+
+  * MehulJ21 → Need Help in further Optimization in a problem    ![Text created or updated](//codeforces.org/s/51114/images/icons/x-update-12x12.png)
+
+  * aryan57 → What is the upper bound on N to pass a O(N^3) solution?   ![New comment\(s\)](//codeforces.org/s/51114/images/icons/comment-12x12.png)
+
+  * Balajiganapathi → Anouncement about Amritapuri ICPC and other Indian regionals   ![New comment\(s\)](//codeforces.org/s/51114/images/icons/comment-12x12.png)
+
+  * epiphany_22 → Code Gladiators 2021   ![New comment\(s\)](//codeforces.org/s/51114/images/icons/comment-12x12.png)
+
+  * ACtor → How to solve/approach a DP problem?   ![New comment\(s\)](//codeforces.org/s/51114/images/icons/comment-12x12.png)
+
+  * mcGyver → How to avoid infinite loop in sublime text 3 ???   ![New comment\(s\)](//codeforces.org/s/51114/images/icons/comment-12x12.png)
+
+  * electro177 → How to deal with kind of depression   ![New comment\(s\)](//codeforces.org/s/51114/images/icons/comment-12x12.png)
+
+  * anipnwr → why does recursive code fail for some test cases ?   ![New comment\(s\)](//codeforces.org/s/51114/images/icons/comment-12x12.png)
+
+  * Saucemaster102 → problem B. Morning Jogging Contest 2050 and Codeforces Round #718 (Div. 1 + Div. 2)   ![New comment\(s\)](//codeforces.org/s/51114/images/icons/comment-12x12.png)
+
+  * THERE_IS_NO_RETURN → i need help in dp   ![Text created or updated](//codeforces.org/s/51114/images/icons/x-update-12x12.png)
+
+  * v_mire_zhivotnykh → Where can I repair notebook in Moscow   ![New comment\(s\)](//codeforces.org/s/51114/images/icons/comment-12x12.png)
+
+  * chokudai → AtCoder Beginner Contest 198 Announcement   ![New comment\(s\)](//codeforces.org/s/51114/images/icons/comment-12x12.png)
+
+  * Giun_Giun_10_Tin → Can not launch ContestAppletProd.jnlp on Ubuntu   ![New comment\(s\)](//codeforces.org/s/51114/images/icons/comment-12x12.png)
+
+  * pushedx → How do I set my home country on Codeforces?   ![New comment\(s\)](//codeforces.org/s/51114/images/icons/comment-12x12.png) ![Necropost](//codeforces.org/s/51114/images/icons/hourglass.png)
+
+  * Qualified → Using Vim for C++   ![New comment\(s\)](//codeforces.org/s/51114/images/icons/comment-12x12.png)
+
+  * tunyash → Editorial for Codeforces Round #144   ![New comment\(s\)](//codeforces.org/s/51114/images/icons/comment-12x12.png) ![Necropost](//codeforces.org/s/51114/images/icons/hourglass.png)
+
+  * hmehta → TCO21 Round 1B   ![New comment\(s\)](//codeforces.org/s/51114/images/icons/comment-12x12.png)
+
+|  Detailed →  
+---|---  
+  
+Educational Codeforces Round 108 [Rated for Div. 2]
+
+By awoo, history, 26 hours ago, translation, ![In
+English](//codeforces.org/s/51114/images/flags/24/gb.png)
+
+Hello Codeforces!
+
+On Thursday, April 29, 2021 at 07:35UTC-7 Educational Codeforces Round 108
+(Rated for Div. 2) will start.
+
+Series of Educational Rounds continue being held as Harbour.Space University
+initiative! You can read the details about the cooperation between
+Harbour.Space University and Codeforces in the blog post.
+
+This round will be **rated for the participants with rating lower than 2100**.
+It will be held on extended ICPC rules. The penalty for each incorrect
+submission until the submission with a full solution is 10 minutes. After the
+end of the contest you will have 12 hours to hack any solution you want. You
+will have access to copy any solution and test it locally.
+
+You will be given **6 or 7 problems** and **2 hours** to solve them.
+
+The problems were invented and prepared by Roman Roms Glazov, Adilbek adedalic
+Dalabaev, Vladimir vovuh Petrov, Ivan BledDest Androsov, Maksim Neon
+Mescheryakov and me. Also huge thanks to Mike MikeMirzayanov Mirzayanov for
+great systems Polygon and Codeforces.
+
+Good luck to all the participants!
+
+Our friends at Harbour.Space also have a message for you:
+
+![Codeforces and
+Harbour.Space](/predownloaded/7f/de/7fde788e9cf02396d46ca2ca8c8a9911ad085c80.png)
+
+ _Hey, Codeforces!_
+
+_Once again, it is time for another exciting **scholarship opportunity** from
+Harbour.Space!_
+
+_This time we have partnered with PhazeRo to open the door for an exciting
+career in technology for the most talented people in our network._
+
+_In partnership with PhazeRo, we are offering a **full scholarship** to study
+for a Master’s in Data Science at Harbour.Space while working as a Junior Data
+Scientist at PhazeRo!_
+
+ _ **Scholarship Requirements:**_
+
+  * _Bachelor's Degree_
+  * _Professional fluency in English_
+  * _Proficiency with data mining, mathematics, and statistical analysis._
+  * _Experience with Tableau, SQL, and programming languages (i.e., Python, R, Java)_
+
+_**Scholarship Highlights:**_
+
+  1. _Study in Europe’s most exciting tech cities_
+  2. _Full tuition fee covered (€22,900)_
+  3. _Competitive compensation for the internship at PhazeRo (€700 / month)_
+  4. _Opportunity to join PhazeRo full-time after graduation_
+
+![Codeforces and
+Harbour.Space](/predownloaded/f8/b7/f8b7fcfae1f8461874f603db40776772b6e4fc7e.png)
+
+_**Some of the advantages of working at PhazeRo:**_
+
+  * _Possibility of a job upon graduation_
+  * _Immerse into an International Company_
+  * _Diversity Program_
+  * _Professional Development_
+  * _Be part of a company that is building the region's largest engineering team_
+
+_We have previously partnered with other companies like OneRagtime, Hansgrohe,
+Coherra, and Remy Robotics to empower young talents around the world and help
+them boost their tech career._
+
+ _We are always happy to see Codeforces members join the Harbour.Space
+family.Apply now to get a chance to learn from the best in the field and
+kickstart your career!_
+
+ _Keep in touch and follow us onLinkedIn for more scholarship opportunities.
+And follow us on Instagram to evidence student life, events, and success
+stories from our apprenticeship program students._
+
+ _Good luck on your round, and see you next time!_
+
+_Harbour.Space University_
+
+Read more »
+
+![](//codeforces.org/s/51114/images/icons/paperclip-16x16.png) Announcement of
+Educational Codeforces Round 108 (Rated for Div. 2)
+
+
+
+
+
+
+
+
+
+  * ![Vote: I like it](//codeforces.org/s/51114/images/actions/voteup.png)
+  * +163
+  * ![Vote: I do not like it](//codeforces.org/s/51114/images/actions/votedown.png)
+
+  * ![Author](//codeforces.org/s/51114/images/blog/user_16x16.png) awoo 
+  * ![Publication date](//codeforces.org/s/51114/images/blog/date_16x16.png) 26 hours ago
+  * ![Comments](//codeforces.org/s/51114/images/blog/comments_16x16.png) 24 
+
+  
+
+Contest 2050 and Codeforces Round #718 (Div.1 + Div.2)
+
+By xyz2606, 8 days ago, ![In
+English](//codeforces.org/s/51114/images/flags/24/gb.png)
+
+Hello Codeforces!
+
+Contest 2050 and Codeforces Round #718 (Div. 1 + Div. 2) will take place on
+Friday, April 23, 2021 at 07:35UTC-7. It's rated for everyone! The score
+distribution is **500--1250--1500--1750--2500--3000--3000--4000**. You will
+have 2 hours and 45 minutes to solve 8 problems.
+
+Contest 2050 is initiated by volunteers of the 2050 Conference. You can find
+out what is 2050 at the end of this blog.
+
+The contest is prepared by
+
+  * Fulisike, littlelittlehorse, Retired_MiFaFaOvO, xyz2606
+
+and we'd like to thank
+
+  * KAN, Nebuchadnezzar for their excellent coordination.
+  * absi2011, chitanda, Gromah, Itst, _cherry_, Aaeria, HIS_GRACE, A.K.E.E., namanbansal013, Miracle03, yaoR, sshwyR, chenjb for testing the round.
+  * MikeMirzayanov for the great codeforces and polygon platforms.
+
+See you on Friday and good luck!
+
+We have the following introductory message by the 2050 volunteers:
+
+2050 aims to equip young people to take action and to become volunteers. Every
+'last weekend' of Apr, together with the youth, we celebrate the technology at
+Yunqi Town, China. 2050 is a volunteer-only, not-for-profit unconference.
+
+"Most of the conferences in China are held for those who are already
+successful in their careers, but none targets young people. 2050 wants to fill
+the gap, giving Chinese youth a stage to make their own voices heard and
+maximize their energy and talent," said Dr. Wang Jian.
+
+### What to expect at 2050?
+
+At 2050, we call it containers. There are 10 containers: 2050 Youth; Migratory
+Bird Program; Game On; Mindnet; Youth Stage; Starry Night Camping; Everything
+Grows; Explorer Space; New Gen Forum; Youth Reunion.
+
+### Special arrangement of this year
+
+This year, because of the pandemic and travel restriction, many friends from
+overseas cannot join us in Hangzhou. This however, cannot stop us from
+connecting with each other. 2050 will be connecting with 100 cities, to dial
+in volunteers who cannot join us onsite.
+
+### The road to championship @ new gen forum
+
+Algorithms and programming are their pleasures of life. With the belief of
+victory, they defeated the most powerful opponents. They worked hard to
+explore the boundaries of human intelligence on the road to the ultimate. We
+invite the top competitive programming players around the world to share their
+journeys on Saturday at 23:00~24:00 (UTC+8). If you are interested, please
+message littlelittlehorse.
+
+Find out more at https://2050.org.cn/en/.
+
+ **UPD**. Score distribution **500--1250--1500--1750--2500--3000--3000--4000**
+
+ **UPD** Congratulations to the winners
+
+  1. Benq
+  2. Um_nik
+  3. mnbvmar
+  4. Radewoosh
+  5. y1s1
+
+**Editorial**
+
+Editorial
+
+Read more »
+
+![](//codeforces.org/s/51114/images/icons/paperclip-16x16.png) Announcement of
+Contest 2050 and Codeforces Round #718 (Div. 1 + Div. 2)
+
+
+
+
+
+
+
+
+
+  * ![Vote: I like it](//codeforces.org/s/51114/images/actions/voteup.png)
+  * +529
+  * ![Vote: I do not like it](//codeforces.org/s/51114/images/actions/votedown.png)
+
+  * ![Author](//codeforces.org/s/51114/images/blog/user_16x16.png) xyz2606 
+  * ![Publication date](//codeforces.org/s/51114/images/blog/date_16x16.png) 8 days ago
+  * ![Comments](//codeforces.org/s/51114/images/blog/comments_16x16.png) 214 
+
+  
+
+Join RuCode Championship on 25 April
+
+By MiptLited, 7 days ago, ![In
+English](//codeforces.org/s/51114/images/flags/24/gb.png)
+
+Rucode Festival is a great opportunity to prove yourself and get experience in
+programming competitions. The Championship will be held on **25 April** in two
+different levels of complexity: for A/B divisions and for C/D divisions. The
+tasks will be in English and in Russian.
+
+We welcome teams from 1 to 3 people.
+
+The tasks are made by the leading Russian universities professors, champions
+of international competitions and coaches of Moscow Workshops.
+
+To take part please register here until 24 April, 23:59 (Moscow)
+
+ **Schedule** :
+
+  * Trial round: 10:30 — 11:00
+
+  * Contest: 11:00 — 16:00
+
+See you at #RuCode!
+
+![ ](/predownloaded/d8/f1/d8f1a1712a67258306c9775f27e39fe12d7d3580.png)
+
+Read more »
+
+![Tags](//codeforces.org/s/51114/images/blog/tags.png) rucode
+
+
+
+
+
+
+
+
+
+  * ![Vote: I like it](//codeforces.org/s/51114/images/actions/voteup.png)
+  * +32
+  * ![Vote: I do not like it](//codeforces.org/s/51114/images/actions/votedown.png)
+
+  * ![Author](//codeforces.org/s/51114/images/blog/user_16x16.png) MiptLited 
+  * ![Publication date](//codeforces.org/s/51114/images/blog/date_16x16.png) 7 days ago
+  * ![Comments](//codeforces.org/s/51114/images/blog/comments_16x16.png) 5 
+
+  
+
+Codeforces Round #717 (Div.2)
+
+By mohammedehab2002, 10 days ago, ![In
+English](//codeforces.org/s/51114/images/flags/24/gb.png)
+
+It's me again!
+
+Codeforces round #717 will take place on Wednesday, April 21, 2021 at
+06:35UTC-7, an hour early than the usual timing. It's rated for the second
+division, but, as usual, first division participants can take part out of
+competition.
+
+The problems were created by me, and some of them are based on the Egyptian
+IOI qualification. I'd like to thank:
+
+  * KAN and Aleks5d for their excellent coordination.
+  * Akulyat, __cucumber__, Randle, Riladavin, Waley, MForest, _Stefan_, RabbitPower, and the official contestants, I guess, for testing the round.
+  * MikeMirzayanov for the great Codeforces and Polygon platforms.
+
+You'll be given 5 problems, but this time you'll have 2 hours to solve them.
+
+ **UPD:** the scoring distribution will be 500-1000-1500-2000-2750.
+
+ **UPD:** the editorial.
+
+ **UPD:** congratulations to the winners:
+
+Div.1:-
+
+  1. LJC00118
+  2. antontrygubO_o because he has to get a mention
+  3. Mehrdad_Sohrabi
+  4. zscoder
+  5. SSRS_
+
+Div.2:-
+
+  1. __fishingprince__
+  2. Dolodu123
+  3. alya_wow
+  4. nxa_k_o
+  5. Kazaoka_Mari
+
+Good luck & Have fun :D
+
+Read more »
+
+![](//codeforces.org/s/51114/images/icons/paperclip-16x16.png) Announcement of
+Codeforces Round #717 (Div. 2)
+
+
+
+
+
+
+
+
+
+  * ![Vote: I like it](//codeforces.org/s/51114/images/actions/voteup.png)
+  * +626
+  * ![Vote: I do not like it](//codeforces.org/s/51114/images/actions/votedown.png)
+
+  * ![Author](//codeforces.org/s/51114/images/blog/user_16x16.png) mohammedehab2002 
+  * ![Publication date](//codeforces.org/s/51114/images/blog/date_16x16.png) 10 days ago
+  * ![Comments](//codeforces.org/s/51114/images/blog/comments_16x16.png) 284 
+
+  
+
+Codeforces Round #716 (Div.2)
+
+By mohammedehab2002, 12 days ago, ![In
+English](//codeforces.org/s/51114/images/flags/24/gb.png)
+
+Hi everyone!
+
+Codeforces round #716 will take place on Monday, April 19, 2021 at 06:35UTC-7.
+It's rated for the second division, but, as usual, first division participants
+can take part out of competition.
+
+The problems are based on the Egyptian IOI qualification, and they were
+created by me and mahmoudbadawy. I'd like to thank:
+
+  * KAN and Nebuchadnezzar for their excellent coordination.
+  * antontrygubO_o for improving a problem, then rejecting all our problems without reading them, then testing the round.
+  * Yousef_Salama, Mohammad_Yasser, Noureldin, and Commando_ for testing the official contest.
+  * 74TrAkToR and psevdoinsaf for testing the round.
+  * MikeMirzayanov for the great codeforces and polygon platforms.
+
+This may be the most and only balanced round I've ever set. You'll be given 5
+problems and 2:15 hours to solve them.
+
+ **UPD:** the scoring distribution will be 500-1000-1500-2000-2500.
+
+ **UPD:** the editorial is out.
+
+ **UPD:** congratulations to the winners:
+
+Div.1:-
+
+  1. neal
+  2. DreamingLeaf
+  3. Geothermal
+  4. cookiedoth
+  5. Tlatoani
+
+Div.2:-
+
+  1. alya_wow
+  2. DatChelsea
+  3. Trump_Constructs_China
+  4. Dolodu123
+  5. Kazaoka_Mari
+
+Good luck & Have fun :D
+
+Read more »
+
+![](//codeforces.org/s/51114/images/icons/paperclip-16x16.png) Announcement of
+Codeforces Round #716 (Div. 2)
+
+
+
+
+
+
+
+
+
+  * ![Vote: I like it](//codeforces.org/s/51114/images/actions/voteup.png)
+  * +631
+  * ![Vote: I do not like it](//codeforces.org/s/51114/images/actions/votedown.png)
+
+  * ![Author](//codeforces.org/s/51114/images/blog/user_16x16.png) mohammedehab2002 
+  * ![Publication date](//codeforces.org/s/51114/images/blog/date_16x16.png) 12 days ago
+  * ![Comments](//codeforces.org/s/51114/images/blog/comments_16x16.png) 181 
+
+  
+
+Codeforces Round #715
+
+By Kuroni, history, 2 weeks ago, ![In
+English](//codeforces.org/s/51114/images/flags/24/gb.png)
+
+_"Love" is a violent word.  
+"I love that about you..." Doesn't that just mean "If that changed, I wouldn't
+love you anymore?"  
+"Love" is a word that binds you.  
+— Touko Nanami — _
+
+Hi Codeforces!
+
+Ari and I are pleased to invite you to participate in Codeforces Round #715
+(Div. 1) and Codeforces Round #715 (Div. 2), which will be held at Friday,
+April 16, 2021 at 07:35UTC-7. Each division will have **6 problems** and **2
+hours and 15 minutes** to solve them.
+
+Big thanks to the following people:
+
+  * Sir antontrygubO_o for being an amazing coordinator; the round wouldn't happen without you ❤️
+  * Scrubpai, 1-gon, hugopm, tfg, dorijanlendvaj, xuanquang1999, 300iq, Mike4235, Luminal, QuangBuiYT, jamienguyen, Pichu, chctxdy68, neko_nyaaaaaaaaaaaaaaaaa, gamegame, MrDecomposition, TheDramaQueen, nor, and alimq for testing the round and providing valuable feedback.
+  * MikeMirzayanov for the amazing platforms Codeforces and Polygon!
+  * And of course, to all the participants of this round!
+
+The round will be themed around _Yagate Kimi ni Naru_ , which is a romantic
+anime/manga series. If you haven't picked up the series yet, I highly
+recommend you to do so after the round ;)
+
+Please do read all of the problems, stay hydrated during the round, and solve
+as many as you can! Good luck have fun to everyone!
+
+Here are the scoring distributions:
+
+  * Div. 2: **500 — 1000 — 1500 — 2250 — 2500 — 3000**
+  * Div. 1: **750 — 1000 — 1500 — 2250 — 2250 — 4000**
+
+**UPD1** : The round has concluded! Congratulations to the winners from both
+divisions:
+
+  * Div. 1:
+
+  1. ecnerwala
+  2. ksun48
+  3. tourist
+  4. Radewoosh
+  5. maroonrk
+
+  * Div. 2:
+
+  1. wannahavealife (solved all problems!)
+  2. traxex2
+  3. _su1sen
+  4. I_love_Ilya_Krasnov
+  5. tsugu
+
+**UPD2** : Editorial is up!
+
+Thanks to everyone for participating in this contest, this has been a wild
+ride from start to finish. See you all next time!
+
+Read more »
+
+![](//codeforces.org/s/51114/images/icons/paperclip-16x16.png) Announcement of
+Codeforces Round #715 (Div. 1)
+
+![](//codeforces.org/s/51114/images/icons/paperclip-16x16.png) Announcement of
+Codeforces Round #715 (Div. 2)
+
+
+
+
+
+
+
+
+
+  * ![Vote: I like it](//codeforces.org/s/51114/images/actions/voteup.png)
+  * +1358
+  * ![Vote: I do not like it](//codeforces.org/s/51114/images/actions/votedown.png)
+
+  * ![Author](//codeforces.org/s/51114/images/blog/user_16x16.png) Kuroni 
+  * ![Publication date](//codeforces.org/s/51114/images/blog/date_16x16.png) 2 weeks ago
+  * ![Comments](//codeforces.org/s/51114/images/blog/comments_16x16.png) 320 
+
+  
+
+Educational Codeforces Round 107 [Rated for Div. 2]
+
+By awoo, history, 3 weeks ago, translation, ![In
+English](//codeforces.org/s/51114/images/flags/24/gb.png)
+
+Hello Codeforces!
+
+On Monday, April 12, 2021 at 07:35UTC-7 Educational Codeforces Round 107
+(Rated for Div. 2) will start.
+
+Series of Educational Rounds continue being held as Harbour.Space University
+initiative! You can read the details about the cooperation between
+Harbour.Space University and Codeforces in the blog post.
+
+This round will be **rated for the participants with rating lower than 2100**.
+It will be held on extended ICPC rules. The penalty for each incorrect
+submission until the submission with a full solution is 10 minutes. After the
+end of the contest you will have 12 hours to hack any solution you want. You
+will have access to copy any solution and test it locally.
+
+You will be given **6 or 7 problems** and **2 hours** to solve them.
+
+The problems were invented and prepared by Roman Roms Glazov, Adilbek adedalic
+Dalabaev, Vladimir vovuh Petrov, Ivan BledDest Androsov, Maksim Neon
+Mescheryakov and me. Also huge thanks to Mike MikeMirzayanov Mirzayanov for
+great systems Polygon and Codeforces.
+
+Good luck to all the participants!
+
+Our friends at Harbour.Space also have a message for you:
+
+ _Calling on all Codeforces,_
+
+_Harbour.Space University is offering a unique opportunity to study in
+Barcelona for those who are **interested in joining our young and dynamic
+competitive programming team**. We accept medalists and top performers of IOI,
+IMO, ICPC, and participants with Codeforces rank above 2000._
+
+![Codeforces and
+Harbour.Space](/predownloaded/50/5b/505b4afd57554f25f8c8b7b391743723dd69c6cb.png)
+
+_Harbour.Space has a single, key requirement: be passionate and motivated to
+learn and/or work in the field of competitive programming in the long term.
+Even if you have already exhausted all your ICPC attempts, you are still
+welcome._
+
+_Join us to help build a comprehensive system of preparation for IOI and ICPC
+for the next generations! We believe that if you have the talent and
+determination to succeed, you can. **We want to help you make it happen**._
+
+ _In addition to courses taught by some of the world's foremost experts in
+their fields, Harbour.Space offers these benefits upon acceptance for this
+scholarship:_
+
+  * _A full tuition fee waiver (Bachelor and Master degrees)_
+  * _Student visa_
+  * _Private health insurance_
+  * _Monthly living allowance*_
+
+![Codeforces and
+Harbour.Space](/predownloaded/4f/d5/4fd550ad46b29bb389e20c266970861aa5f18bf7.png)
+
+_In return, we demand dedication to learning and improving yourselves:_
+
+— _Study three hours per day_  
+— _Train continuously for ICPC, if you are still eligible for participation_  
+— _Intern four hours per day_
+
+_Ready to formally submit your application? Pleaseregister on our website,
+attach your latest CV, and pay a non-refundable €125 application fee. The fee
+guarantees we can process every single application in a fair and timely
+manner, and maintain the highest possible standards of assessment._
+
+Register→
+
+_Our admission process is a holistic review of each candidate's abilities,
+achievements, and potential to create something exceptional._
+
+ _You may choose to study in the following areas of specialization:_
+
+  1. _Computer Science_
+  2. _Data Science_
+  3. _Cyber Security_
+  4. _Front-End Development_
+
+![Codeforces and
+Harbour.Space](/predownloaded/7d/bb/7dbb4fd696d6da8522c13ebb88a46d6594327846.png)
+
+_All our degrees are taught in English. If you want to learn more about our
+programs pleasevisit our website or contact our admissions office._
+
+* _The exact living allowance level throughout the entire duration of studies depends on the performance during the interview and on the overall performance. As a guidance, it is in the range of 500-1500 EUR._
+
+_Harbour.Space University Team_
+
+Congratulations to the winners:
+
+Rank | Competitor | Problems Solved | Penalty  
+---|---|---|---  
+1 | risujiroh | 7 | 233  
+2 | Maksim1744 | 7 | 243  
+3 | noimi | 7 | 253  
+4 | fastmath | 7 | 278  
+5 | mango_lassi | 7 | 288  
+  
+145 successful hacks and 1221 unsuccessful hacks were made in total!
+
+And finally people who were the first to solve each problem:
+
+Problem | Competitor | Penalty  
+---|---|---  
+A | Maksim1744 | 0:01  
+B | SSRS_ | 0:03  
+C | BrunoFMUFC | 0:06  
+D | SSRS_ | 0:10  
+E | AmShZ | 0:08  
+F | SSRS_ | 0:51  
+G | Potassium | 0:45  
+  
+**UPD:** Editorial is out
+
+Read more »
+
+![](//codeforces.org/s/51114/images/icons/paperclip-16x16.png) Announcement of
+Educational Codeforces Round 107 (Rated for Div. 2)
+
+
+
+
+
+
+
+
+
+  * ![Vote: I like it](//codeforces.org/s/51114/images/actions/voteup.png)
+  * +223
+  * ![Vote: I do not like it](//codeforces.org/s/51114/images/actions/votedown.png)
+
+  * ![Author](//codeforces.org/s/51114/images/blog/user_16x16.png) awoo 
+  * ![Publication date](//codeforces.org/s/51114/images/blog/date_16x16.png) 3 weeks ago
+  * ![Comments](//codeforces.org/s/51114/images/blog/comments_16x16.png) 238 
+
+  
+
+Divide by Zero 2021 and Codeforces Round #714 (Div. 2)
+
+By mtnshh, history, 3 weeks ago, ![In
+English](//codeforces.org/s/51114/images/flags/24/gb.png)
+
+The Programming Club, IIT Indore is proud to present our flagship event,
+**Divide By Zero**! The contest will take place on Sunday, April 11, 2021 at
+07:35UTC-7. This round will be rated for all participants with a rating lower
+than 2100.
+
+![Divide By Zero
+2021](/predownloaded/bd/91/bd91b097406e37c0d35b474bbf0d95b5a097d840.jpeg)
+
+Thanks to the following people for making the round possible:
+
+  * KAN for coordinating throughout the round.
+  * kalpitk, ajit and 7dan for setting the problems.
+  * dvshah, bhanushali, sundesh, AniketSangwan, krishanu21saini, somyamehta_24 and hk2102 for their contribution to the problemset.
+  * Um_nik, dorijanlendvaj, chctxdy68, Osama_Alkhodairy, ScarletS, Discombobulated, kassutta and Jellyman102 for testing the problems.
+  * MikeMirzayanov for the amazing Codeforces and Polygon platforms.
+
+There are 6 problems, and 2 hours to solve them. The points distribution will
+be updated later.
+
+ **Update** : The scoring distribution is **500 -- 1250 -- 1500 -- 2000 --
+2750 -- 3000**.
+
+ **Update** : Editorial is up.
+
+ **PRIZES** : Twenty Codeforces T-shirt will be given to:
+
+  * Top 10 Indian Participants
+  * Random 10 from top 100 (rank 11-100) Indian participants
+
+Hope you guys enjoy the contest! See you on the leaderboard!
+
+ **Update** : Here is the list of winners who won T-shirts. We will contact
+you guys soon. Congrats!
+
+Top 10 Indian Participants
+
+  * kshitij_sodani
+  * amnesiac_dusk
+  * jtnydv25
+  * pikel_rik
+  * JrNTR
+  * piyushsethia1999
+  * kesh4281
+  * scansex
+  * Lubba_Lubba
+  * Rahul
+
+Random 10 from top 100 (rank 11-100) Indian participants
+
+  * not_an_alt
+  * Test2311
+  * rivalq
+  * teja349
+  * akulsareen
+  * maester
+  * ManavJ07
+  * iLLusio
+  * devansh05
+  * vok8
+
+We have uploaded the link to the code for generating random numbers and
+ranklist here.
+
+Read more »
+
+![](//codeforces.org/s/51114/images/icons/paperclip-16x16.png) Announcement of
+Divide by Zero 2021 and Codeforces Round #714 (Div. 2)
+
+
+
+
+
+
+
+
+
+  * ![Vote: I like it](//codeforces.org/s/51114/images/actions/voteup.png)
+  * +502
+  * ![Vote: I do not like it](//codeforces.org/s/51114/images/actions/votedown.png)
+
+  * ![Author](//codeforces.org/s/51114/images/blog/user_16x16.png) mtnshh 
+  * ![Publication date](//codeforces.org/s/51114/images/blog/date_16x16.png) 3 weeks ago
+  * ![Comments](//codeforces.org/s/51114/images/blog/comments_16x16.png) 280 
+
+  
+
+←
+
+  * 1
+  * 2
+  * 3
+  * ... 
+  * 184
+  * 185
+  * →
+
+  
+
+Codeforces (c) Copyright 2010-2021 Mike Mirzayanov
+
+The only programming contests Web 2.0 platform
+
+Server time: Apr/29/2021 06:58:47UTC-7 (g1).
+
+Desktop version, switch to mobile version.
+
+Privacy Policy
+
+Supported by
+
+![Telegram](//codeforces.org/s/51114/images/telegram-100x100.png)
+![ИТМО](//codeforces.org/s/51114/images/itmo_small_en-logo.png)
+
+
+
+
+
+
+
+
+
+User lists
+
+![](//codeforces.org/s/51114/images/icons/control.png)
+![](//codeforces.org/s/51114/images/icons/control-270.png)
+
+
+
+
+
+Name  
+---  
+No items  
+  
+×
+
+Contest has not started
+

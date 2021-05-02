@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "ios": "cpp",
+        "chrono": "cpp",
+        "filesystem": "cpp",
+        "xlocale": "cpp",
+        "numeric": "cpp",
+        "random": "cpp"
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "ios": "cpp",
+        "chrono": "cpp",
+        "filesystem": "cpp",
+        "random": "cpp",
+        "algorithm": "cpp",
+        "limits": "cpp",
+        "utility": "cpp",
+        "valarray": "cpp"
+    }
+}
